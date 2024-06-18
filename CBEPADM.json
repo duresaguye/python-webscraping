@@ -1,0 +1,310 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": "Program duration (in years): Three for regular and Four for extension",
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": "Program Objective:",
+        "Program Objective": null,
+        "Admission requirements": "Graduation requirement– students must take a minimum of 110 credit hours (185 ECTS) and have to score a minimum CGPA and MGPA of 2.00 with no ‘F’.",
+        "Graduation requirement": ""
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "Overview",
+            "Module Name": "OverviewTikur Anbessaveterinary",
+            "Course Code": "BackgroundICT ContactsOverviewOverviewServicesPublished BooksAAUP House StyleContacts",
+            "Course Name": "Overview",
+            "Module ECTS": "OverviewServicesPublished BooksAAUP House StyleContacts"
+        },
+        {
+            "Module Code": "M.No",
+            "Module Name": "Module Name",
+            "Course Code": "Module code",
+            "Course Name": "Cr.Hrs",
+            "Module ECTS": "ECTS"
+        },
+        {
+            "Module Code": "01",
+            "Module Name": "Foundations of Public Administration",
+            "Course Code": "PADM-M1011",
+            "Course Name": "6",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "Introduction to Management",
+            "Module Name": "MGMT1012",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "02",
+            "Module Name": "Civics and Ethics",
+            "Course Code": "CESt-M1023",
+            "Course Name": "3",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "03",
+            "Module Name": "Introduction to Logic",
+            "Course Code": "Phil-M1033",
+            "Course Name": "3",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "04",
+            "Module Name": "Basic English Skills",
+            "Course Code": "EnLa-M1013",
+            "Course Name": "6",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "Basic Writing Skills",
+            "Module Name": "Enla1012",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "05",
+            "Module Name": "Quantitative Skills for Public Administration",
+            "Course Code": "PADM-M1042",
+            "Course Name": "9",
+            "Module ECTS": "15"
+        },
+        {
+            "Module Code": "Statistics for Management II",
+            "Module Name": "MGMT1042",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "Mathematics for Management",
+            "Module Name": "MGMT1043",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "06",
+            "Module Name": "Development Management",
+            "Course Code": "PADM-M1051",
+            "Course Name": "13",
+            "Module ECTS": "21"
+        },
+        {
+            "Module Code": "Macroeconomics",
+            "Module Name": "Econ1052",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "Theories & politics of development",
+            "Module Name": "PADM1053",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "Development Administration",
+            "Module Name": "PADM1054",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "07",
+            "Module Name": "Communication Skills",
+            "Course Code": "PADM-M2061",
+            "Course Name": "6",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "Introduction to Computer Application",
+            "Module Name": "COSC2062",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "08",
+            "Module Name": "Public finance administration",
+            "Course Code": "PADM-M2071",
+            "Course Name": "12",
+            "Module ECTS": "20"
+        },
+        {
+            "Module Code": "Principles of Accounting II",
+            "Module Name": "AcFn2072",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "Public Finance & Taxation",
+            "Module Name": "PADM2073",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "Public Budgeting and FinancialAdministration",
+            "Module Name": "PADM2074",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "09",
+            "Module Name": "Government andGovernance",
+            "Course Code": "PADM-M2081",
+            "Course Name": "14",
+            "Module ECTS": "23"
+        },
+        {
+            "Module Code": "Local Government and Administration",
+            "Module Name": "PADM2082",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "Urban Governance & Administration",
+            "Module Name": "PADM2083",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "Public Service Delivery",
+            "Module Name": "PADM2084",
+            "Course Code": "2",
+            "Course Name": "3",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "Administrative Law",
+            "Module Name": "PADM2085",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "10",
+            "Module Name": "Research methodology",
+            "Course Code": "PADM-M2091",
+            "Course Name": "3",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "11",
+            "Module Name": "Human resource administration",
+            "Course Code": "PADM-M3101",
+            "Course Name": "6",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "Public personnel Administration",
+            "Module Name": "PADM3102",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "12",
+            "Module Name": "Organizational Theory and Leadership",
+            "Course Code": "PADM-M3111",
+            "Course Name": "6",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "Leadership and change management",
+            "Module Name": "PADM3112",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "13",
+            "Module Name": "Management of public enterprises and non-governmental organizations",
+            "Course Code": "PADM-M3121",
+            "Course Name": "10",
+            "Module ECTS": "16"
+        },
+        {
+            "Module Code": "Principles of Marketing",
+            "Module Name": "MKMT3122",
+            "Course Code": "2",
+            "Course Name": "3",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "Management of Public Enterprises",
+            "Module Name": "PADM3123",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "Management of NGO’s",
+            "Module Name": "PADM3124",
+            "Course Code": "2",
+            "Course Name": "3",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "14",
+            "Module Name": "Public policy, programs and projects",
+            "Course Code": "PADM-M3131",
+            "Course Name": "12",
+            "Module ECTS": "19"
+        },
+        {
+            "Module Code": "Strategic Management",
+            "Module Name": "PADM3132",
+            "Course Code": "3",
+            "Course Name": "4",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "Project Planning and Management",
+            "Module Name": "PADM3133",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "Entrepreneurship",
+            "Module Name": "MGMT3134",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "15",
+            "Module Name": "Seminar in Public Administration",
+            "Course Code": "PADM-M3141",
+            "Course Name": "4",
+            "Module ECTS": "6"
+        },
+        {
+            "Module Code": "Seminar 2",
+            "Module Name": "PADM3142",
+            "Course Code": "2",
+            "Course Name": "3",
+            "Module ECTS": "Parallel"
+        },
+        {
+            "Module Code": "Total",
+            "Module Name": "113",
+            "Course Code": "185",
+            "Course Name": "",
+            "Module ECTS": ""
+        }
+    ]
+}

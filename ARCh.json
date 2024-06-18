@@ -1,0 +1,282 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": "Program duration (in years): Five for regular",
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": "ProgramObjective",
+        "Program Objective": null,
+        "Admission requirements": "Graduation requirement",
+        "Graduation requirement": "CGPA and MGPA of at least 2.00,Total ECTS of 331 andNo ‘F’ grade in any course taken."
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "Overview",
+            "Module Name": "OverviewTikur Anbessaveterinary",
+            "Course Code": "BackgroundICT ContactsOverviewOverviewServicesPublished BooksAAUP House StyleContacts",
+            "Course Name": "Overview",
+            "Module ECTS": "OverviewServicesPublished BooksAAUP House StyleContacts"
+        },
+        {
+            "Module Code": "Code",
+            "Module Name": "Module Name",
+            "Course Code": "Course Code",
+            "Course Name": "Course Name",
+            "Module ECTS": "module ECTS"
+        },
+        {
+            "Module Code": "ARCH-M1014",
+            "Module Name": "Applied Engineering Mathematics",
+            "Course Code": "Math1041",
+            "Course Name": "Applied Mathematics",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "EnLa-M1013",
+            "Module Name": "Basic English Skills",
+            "Course Code": "EnLa1011",
+            "Course Name": "Communicative English Skill",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "CESt-M1023",
+            "Module Name": "Civics and Ethics",
+            "Course Code": "CESt1023",
+            "Course Name": "Civics and Ethics",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "ARCH-M1024",
+            "Module Name": "Introduction to Economics",
+            "Course Code": "Arch1022",
+            "Course Name": "Introduction to Economics",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "Phil-M1033",
+            "Module Name": "Introduction to Logic",
+            "Course Code": "Phil1033",
+            "Course Name": "Introduction to Logic",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "ARCH-M2031",
+            "Module Name": "Urban Sociology",
+            "Course Code": "ARCH2031",
+            "Course Name": "Urban Sociology I",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "ARCH-M1041",
+            "Module Name": "Graphic Communications",
+            "Course Code": "ARCH1041",
+            "Course Name": "Communication Skills I (Sketching I, Drafting & Descriptive Geometry I)",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "ARCH-M2051",
+            "Module Name": "Visual and History of Arts",
+            "Course Code": "ARCH2051",
+            "Course Name": "Communication Skills III (Visual & History of Arts I)",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "ARCH-M3061",
+            "Module Name": "Computer Aided Design",
+            "Course Code": "ARCH3061",
+            "Course Name": "Professional CAD I",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "ARCH-M1071",
+            "Module Name": "Basic Architectural Design",
+            "Course Code": "ARCH1071",
+            "Course Name": "Basic Architectural Design I",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "ARCH-M3091",
+            "Module Name": "Project I",
+            "Course Code": "ARCH3092",
+            "Course Name": "Integrated Design Project I",
+            "Module ECTS": "12"
+        },
+        {
+            "Module Code": "ARCH-M4101",
+            "Module Name": "Project II",
+            "Course Code": "ARCH4102",
+            "Course Name": "Integrated Design Project II",
+            "Module ECTS": "9"
+        },
+        {
+            "Module Code": "ARCH-M3121",
+            "Module Name": "Professional Practice",
+            "Course Code": "ARCH3121",
+            "Course Name": "Professional Practice I",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "ARCH-M5132",
+            "Module Name": "Interior Design",
+            "Course Code": "ARCH5132",
+            "Course Name": "Interior Design",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "ARCH-M2143",
+            "Module Name": "Advanced Model Making Techniques",
+            "Course Code": "ARCH2141",
+            "Course Name": "Advanced Model Making Techniques",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "ARCH-M1153",
+            "Module Name": "Workshops",
+            "Course Code": "ARCH1151",
+            "Course Name": "Building workshop I",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "ARCH-M1161",
+            "Module Name": "Building Materials",
+            "Course Code": "ARCH1161",
+            "Course Name": "Building Materials and Construction I",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "ARCH-M1181",
+            "Module Name": "Theory and Design of Structures I",
+            "Course Code": "ARCH1181",
+            "Course Name": "Theory and Design of Structures I",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "ARCH-M2191",
+            "Module Name": "Theory and Design of Structures II",
+            "Course Code": "ARCH2191",
+            "Course Name": "Theory and Design of Structures III",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "ARCH-M2201",
+            "Module Name": "Special Structures",
+            "Course Code": "ARCH2202",
+            "Course Name": "Theory and Design of Structures IV",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "ARCH-M5212",
+            "Module Name": "Advanced Building Structures",
+            "Course Code": "ARCH5212",
+            "Course Name": "Advanced Building Structures",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "ARCH-M3221",
+            "Module Name": "Heat, Cooling and Ventilation",
+            "Course Code": "ARCH3221",
+            "Course Name": "Architectural Science I",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "ARCH-M3231",
+            "Module Name": "Water and Sewage",
+            "Course Code": "ARCH3232",
+            "Course Name": "Architectural Science II",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "ARCH-M5251",
+            "Module Name": "Acoustics",
+            "Course Code": "ARCH5251",
+            "Course Name": "Architectural Science IV",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "ARCH-M4661",
+            "Module Name": "Appropriate Building Technology",
+            "Course Code": "ARCH4262",
+            "Course Name": "Appropriate Building Technology",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "ARCH-M1271",
+            "Module Name": "History of Architecture",
+            "Course Code": "ARCH1272",
+            "Course Name": "History of Architecture I",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "ARCH-M3281",
+            "Module Name": "Ethiopian History of Architecture",
+            "Course Code": "ARCH3281",
+            "Course Name": "Ethiopian History of Architecture",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "ARCH-M3291",
+            "Module Name": "Theory of Architecture",
+            "Course Code": "ARCH3291",
+            "Course Name": "Theory of Architecture I",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "ARCH-M4302",
+            "Module Name": "Architectural Heritage",
+            "Course Code": "ARCH4302",
+            "Course Name": "General Building Heritage",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "ARCH-M5312",
+            "Module Name": "Restoration and Preservation",
+            "Course Code": "ARCH5311",
+            "Course Name": "Restoration and Preservation",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "ARCH-M4321",
+            "Module Name": "Housing and Urban Design",
+            "Course Code": "ARCH4322",
+            "Course Name": "Basic Urban Design",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "ARCH-M3331",
+            "Module Name": "Urban planning",
+            "Course Code": "ARCH3331",
+            "Course Name": "Introduction to Urban planning",
+            "Module ECTS": "6"
+        },
+        {
+            "Module Code": "ARCH-M4353",
+            "Module Name": "Ecosystem Planning and Management",
+            "Course Code": "ARCH4352",
+            "Course Name": "General Ecology",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "ARCH-M5362",
+            "Module Name": "Construction Management",
+            "Course Code": "ARCH5362",
+            "Course Name": "Construction Management",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "ARCH-M4381",
+            "Module Name": "Internship",
+            "Course Code": "ARCH4381",
+            "Course Name": "Internship",
+            "Module ECTS": "30"
+        },
+        {
+            "Module Code": "ARCH-M4391",
+            "Module Name": "Thesis",
+            "Course Code": "ARCH5392",
+            "Course Name": "Bachelor Thesis Project",
+            "Module ECTS": "15"
+        }
+    ]
+}

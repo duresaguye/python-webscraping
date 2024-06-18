@@ -1,0 +1,422 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": "Program duration (in years): Three for regular and four for extension",
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": "Program Objective",
+        "Program Objective": "General Objectives– the program in Administrative services management aims at producing graduates who can practically coordinate and direct all support services and information related organizational activities which include: administration, payroll, conference and travel planning, information and data processing, mails and materials scheduling and distribution, printing and reproduction, records management, telecommunications management, secretarial and reception, security, parking, and property procurement, supply, and disposal. Hence, this program is carefully designed to equip students with the necessary knowledge and skills in Administrative Services Management and in Information & Office Technology so that they will be able to discharge their versatile responsibilities when they work as generalists and administrators.",
+        "Admission requirements": "Graduation requirement: a degree in Administrative Services Management requires the successful completion of 16 (sixteen) modules with a total of 187 ECTS work. Prospective graduates are expected to have a CGPA and MGPA of at least 2.00.",
+        "Graduation requirement": ""
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "Overview",
+            "Module Name": "OverviewTikur Anbessaveterinary",
+            "Course Code": "BackgroundICT ContactsOverviewOverviewServicesPublished BooksAAUP House StyleContacts",
+            "Course Name": "Overview",
+            "Module ECTS": "OverviewServicesPublished BooksAAUP House StyleContacts"
+        },
+        {
+            "Module Code": "01",
+            "Module Name": "Basic English Skills",
+            "Course Code": "EnLa-M1013",
+            "Course Name": "10",
+            "Module ECTS": "270"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block 1: Communicative English Skills",
+            "Course Code": "EnLa1011",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block 2: Basic Writing Skills",
+            "Course Code": "EnLa1012",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "02",
+            "Module Name": "Fundamentals of Economics",
+            "Course Code": "ASM-M1021",
+            "Course Name": "10",
+            "Module ECTS": "270"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block 1: Microeconomics I",
+            "Course Code": "FNDE2193",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block 2: Macroeconomics",
+            "Course Code": "FNDE2194",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "03",
+            "Module Name": "Introduction to Logic",
+            "Course Code": "Phil-M1033",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block I: Introduction to Logic",
+            "Course Code": "Phil 1033",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Civics and Ethics",
+            "Course Code": "CESt-M1023",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block I: Civics and Ethics",
+            "Course Code": "CESt 1023",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "General Psychology",
+            "Course Code": "PSYC-M2013",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block I: Introduction to Psychology",
+            "Course Code": "PSYC2011",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "04",
+            "Module Name": "Fundamentals of Administrative services management",
+            "Course Code": "ASM-M2041",
+            "Course Name": "14",
+            "Module ECTS": "378"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block I: Introduction to Management",
+            "Course Code": "ASM2041",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block II: Administrative Services Management",
+            "Course Code": "ASM2042",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block III: Administrative Business Communication",
+            "Course Code": "ASM2043",
+            "Course Name": "4",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "05",
+            "Module Name": "Establishing and Managing Small Business",
+            "Course Code": "ASM-M2051",
+            "Course Name": "14",
+            "Module ECTS": "378"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block I: Entrepreneurship and Small Business Mgt.",
+            "Course Code": "ASM2051",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block II: Principles of Marketing",
+            "Course Code": "MKTM2052",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block III: Business Environment Studies",
+            "Course Code": "ASM2053",
+            "Course Name": "4",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "06",
+            "Module Name": "Basic Computer Skills",
+            "Course Code": "ASM-M2060",
+            "Course Name": "11",
+            "Module ECTS": "297"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block I: Introduction to Information Technology",
+            "Course Code": "BAIS2061",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block II: Computer Writing",
+            "Course Code": "ASM1062",
+            "Course Name": "6",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "07",
+            "Module Name": "Office management and Correspondence Processing",
+            "Course Code": "ASM-M2071",
+            "Course Name": "9",
+            "Module ECTS": "243"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block I: Office Operations Management",
+            "Course Code": "ASM2071",
+            "Course Name": "4.5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block II: Text-Processing",
+            "Course Code": "ASM2072",
+            "Course Name": "4.5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "08",
+            "Module Name": "Office Automation",
+            "Course Code": "ASM-M4081",
+            "Course Name": "10",
+            "Module ECTS": "270"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block 1: System Analysis and Design",
+            "Course Code": "BAIS4081",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block 2: Computer Networking",
+            "Course Code": "BAIS3082",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "09",
+            "Module Name": "Data Processing and Office Records Management",
+            "Course Code": "ASM-M3091",
+            "Course Name": "13.5",
+            "Module ECTS": "364.5"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block I: Integrated Application Software",
+            "Course Code": "ASM3091",
+            "Course Name": "4.5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block II: Integrated Records Management",
+            "Course Code": "ASM3092",
+            "Course Name": "4",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block III: Database Management Systems",
+            "Course Code": "BAIS3093",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "10",
+            "Module Name": "Accounting for Administrative Services Managers",
+            "Course Code": "ACCT-M1101",
+            "Course Name": "15",
+            "Module ECTS": "405"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block I: Principles of Accounting I",
+            "Course Code": "ACCT1101",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block II: Principles of Accounting II",
+            "Course Code": "ACCT1102",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block III: Computerized Accounting",
+            "Course Code": "ACCT1103",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "11",
+            "Module Name": "Managing People",
+            "Course Code": "BAIS-M3110",
+            "Course Name": "10",
+            "Module ECTS": "270"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block I: Human Resources Management",
+            "Course Code": "ASM4063",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block II: Organizational Behavior",
+            "Course Code": "ASM4072",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "12",
+            "Module Name": "Supply and Property Management",
+            "Course Code": "ASM3121",
+            "Course Name": "9",
+            "Module ECTS": "243"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block 2: Principles of Procurement Management",
+            "Course Code": "LSCM3011",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block 3: Property Management",
+            "Course Code": "ASM3122",
+            "Course Name": "4",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "13",
+            "Module Name": "Project Analysis and Quantitative Decision Making",
+            "Course Code": "ASM2131",
+            "Course Name": "15",
+            "Module ECTS": "405"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block 1: Financial Management",
+            "Course Code": "ACCT3152",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block 2: Project Management",
+            "Course Code": "BAIS4102",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block 3: Math for Management",
+            "Course Code": "BAIS3021",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "14",
+            "Module Name": "Organizational Development and Leadership",
+            "Course Code": "ASM3141",
+            "Course Name": "8",
+            "Module ECTS": "216"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block I: Organizational Development",
+            "Course Code": "ASM3141",
+            "Course Name": "4",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block II: Fundamentals of Leadership",
+            "Course Code": "ASM3142",
+            "Course Name": "4",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "15",
+            "Module Name": "Contract Formation and Administration",
+            "Course Code": "ASM3150",
+            "Course Name": "9.5",
+            "Module ECTS": "256.5"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block 1: Business Law",
+            "Course Code": "FNDE2196",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block 2: Contract Administration",
+            "Course Code": "ASM3152",
+            "Course Name": "4.5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "16",
+            "Module Name": "Research and Senior Essay",
+            "Course Code": "ASM3160",
+            "Course Name": "14",
+            "Module ECTS": "378"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block 1: Basic Statistics",
+            "Course Code": "GCMA2011",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block 2: Business Research Methods",
+            "Course Code": "ASM4091",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Block 3: Internship and Final Project",
+            "Course Code": "ASM3163",
+            "Course Name": "4",
+            "Module ECTS": ""
+        }
+    ]
+}

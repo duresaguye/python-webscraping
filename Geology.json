@@ -1,0 +1,122 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": "Program duration (in years):  Four for regular",
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": "Program Objective:",
+        "Program Objective": null,
+        "Admission requirements": "Applicants to the program must successfully complete the precollege program set by the Ministry of Education & fulfill the general University wide admission requirements.",
+        "Graduation requirement": ""
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "Overview",
+            "Module Name": "OverviewTikur Anbessaveterinary",
+            "Course Code": "BackgroundICT ContactsOverviewOverviewServicesPublished BooksAAUP House StyleContacts",
+            "Course Name": "Overview",
+            "Module ECTS": "OverviewServicesPublished BooksAAUP House StyleContacts"
+        },
+      
+        {
+            "Module Code": "",
+            "Module Name": "Fundamentals of Geology",
+            "Course Code": "GEOL-M1011",
+            "Course Name": "17",
+            "Module ECTS": "Industrial Minerals, Rocks and Gems"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Paleontology and Stratigraphy",
+            "Course Code": "GEOL-M2021",
+            "Course Name": "18",
+            "Module ECTS": "Precambrian Geology"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Crystallography and Mineralogy",
+            "Course Code": "GEOL-M2031",
+            "Course Name": "19",
+            "Module ECTS": "Applied Sedimentology"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Structural Geology and Tectonics",
+            "Course Code": "GEOL-M2041",
+            "Course Name": "20",
+            "Module ECTS": "Groundwater Resources Management"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Petrology",
+            "Course Code": "GEOL-M2051",
+            "Course Name": "21",
+            "Module ECTS": "Quaternary Geology"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Geological mapping Techniques",
+            "Course Code": "GEOL-M3061",
+            "Course Name": "22",
+            "Module ECTS": "Earth History and Global Changes"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Geological Mapping",
+            "Course Code": "GEOL-M3071",
+            "Course Name": "23",
+            "Module ECTS": "Environmental Impact Assessment"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Geochemistry",
+            "Course Code": "GEOL-M3081",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Geological Engineering",
+            "Course Code": "GEOL-M4111",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Economic and Mining Geology",
+            "Course Code": "GEOL-M4121",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Energy Resources",
+            "Course Code": "GEOL-M4131",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Environmental Geology",
+            "Course Code": "GEOL-M4141",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Geology and Resources of Ethiopia",
+            "Course Code": "GEOL-M4151",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Research Methods and senior project",
+            "Course Code": "GEOL-M4161",
+            "Course Name": "",
+            "Module ECTS": ""
+        }
+    ]
+}

@@ -1,0 +1,324 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": "Program duration (in years):  Four for regular and five for extension",
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": "Program Objectives– the graduates are expected to:",
+        "Program Objective": null,
+        "Admission requirements": "Meet the set criteria of the Ministry of Education (MoE) for degree students to join higher learning institutions;Physically and mentally fit for nursing service;Preferably those who choose to enter the profession.",
+        "Graduation requirement": "Complete a total of 247 ECTS; CGPA and MGPA of 2.00 and above; No F grade; and Pass the national qualifying exam."
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "Overview",
+            "Module Name": "OverviewTikur Anbessaveterinary",
+            "Course Code": "BackgroundICT ContactsOverviewOverviewServicesPublished BooksAAUP House StyleContacts",
+            "Course Name": "Overview",
+            "Module ECTS": "OverviewServicesPublished BooksAAUP House StyleContacts"
+        },
+        {
+            "Module Code": "No",
+            "Module Name": "ModuleCode",
+            "Course Code": "Module Title",
+            "Course Name": "ModuleECTS",
+            "Module ECTS": "Course Code"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "Enla-M1013",
+            "Course Code": "Basic English Skills",
+            "Course Name": "10",
+            "Module ECTS": "EnLa1011"
+        },
+        {
+            "Module Code": "EnLa1012",
+            "Module Name": "Basic Writing Skill",
+            "Course Code": "5",
+            "Course Name": "3",
+            "Module ECTS": "14"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "CESt-M1023",
+            "Course Code": "Civics and Ethics",
+            "Course Name": "",
+            "Module ECTS": "CESt1023"
+        },
+        {
+            "Module Code": "3",
+            "Module Name": "PsyS-M1034",
+            "Course Code": "Psychosocial module",
+            "Course Name": "6",
+            "Module ECTS": "Soci1031"
+        },
+        {
+            "Module Code": "Psyc1034",
+            "Module Name": "Introduction to Sociology",
+            "Course Code": "3",
+            "Course Name": "2",
+            "Module ECTS": "8"
+        },
+        {
+            "Module Code": "4",
+            "Module Name": "Comp-M1043",
+            "Course Code": "Computer application",
+            "Course Name": "3",
+            "Module ECTS": "Hinf1041"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "Phys1052",
+            "Module ECTS": "Human Physiology"
+        },
+        {
+            "Module Code": "Bioc1053",
+            "Module Name": "Biochemistry",
+            "Course Code": "5",
+            "Course Name": "3",
+            "Module ECTS": "14"
+        },
+        {
+            "Module Code": "Para1062",
+            "Module Name": "Medical Parasitology",
+            "Course Code": "3",
+            "Course Name": "2",
+            "Module ECTS": "8"
+        },
+        {
+            "Module Code": "CLab1063",
+            "Module Name": "Clinical Laboratory Method",
+            "Course Code": "2",
+            "Course Name": "1",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Nurs1064",
+            "Module Name": "Pathophysiology",
+            "Course Code": "5",
+            "Course Name": "3",
+            "Module ECTS": "14"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Nurs2072",
+            "Module Name": "Nursing health assessment",
+            "Course Code": "5",
+            "Course Name": "3",
+            "Module ECTS": "14"
+        },
+        {
+            "Module Code": "Nurs2073",
+            "Module Name": "First Aid & accident prevention",
+            "Course Code": "3",
+            "Course Name": "2",
+            "Module ECTS": "8"
+        },
+        {
+            "Module Code": "Nurs2074",
+            "Module Name": "Fundamentals of nursing",
+            "Course Code": "13",
+            "Course Name": "8",
+            "Module ECTS": "35"
+        },
+        {
+            "Module Code": "Nurs2075",
+            "Module Name": "operation room techniques",
+            "Course Code": "3",
+            "Course Name": "2",
+            "Module ECTS": "8"
+        },
+        {
+            "Module Code": "Nurs 2076",
+            "Module Name": "Fundamentals of nursing practicum",
+            "Course Code": "3",
+            "Course Name": "2",
+            "Module ECTS": "18"
+        },
+        {
+            "Module Code": "8",
+            "Module Name": "Phar-M2083",
+            "Course Code": "Pharmacology",
+            "Course Name": "7",
+            "Module ECTS": "Phar2081"
+        },
+        {
+            "Module Code": "Enva2092",
+            "Module Name": "Environmental health",
+            "Course Code": "3",
+            "Course Name": "2",
+            "Module ECTS": "8"
+        },
+        {
+            "Module Code": "ComH2093",
+            "Module Name": "Health education",
+            "Course Code": "3",
+            "Course Name": "2",
+            "Module ECTS": "8"
+        },
+        {
+            "Module Code": "Nurs2094",
+            "Module Name": "Communicable disease control",
+            "Course Code": "7",
+            "Course Name": "4",
+            "Module ECTS": "19"
+        },
+        {
+            "Module Code": "10",
+            "Module Name": "Nurs-M2101",
+            "Course Code": "Health system research",
+            "Course Name": "13",
+            "Module ECTS": "ComH2101"
+        },
+        {
+            "Module Code": "ComH2102",
+            "Module Name": "Epidemiology",
+            "Course Code": "5",
+            "Course Name": "3",
+            "Module ECTS": "14"
+        },
+        {
+            "Module Code": "Nurs2103",
+            "Module Name": "Nursing research methodology",
+            "Course Code": "3",
+            "Course Name": "2",
+            "Module ECTS": "8"
+        },
+        {
+            "Module Code": "11",
+            "Module Name": "Nurs-M2111",
+            "Course Code": "Nursing education",
+            "Course Name": "7",
+            "Module ECTS": "Nurs2111"
+        },
+        {
+            "Module Code": "Nurs3122",
+            "Module Name": "Medical surgical nursing",
+            "Course Code": "17",
+            "Course Name": "10",
+            "Module ECTS": "46"
+        },
+        {
+            "Module Code": "Nurs3123",
+            "Module Name": "Medical surgical nursing practice",
+            "Course Code": "10",
+            "Course Name": "6",
+            "Module ECTS": "61"
+        },
+        {
+            "Module Code": "Nurs3132",
+            "Module Name": "Obstetrics & Gynecology Nursing",
+            "Course Code": "8",
+            "Course Name": "5",
+            "Module ECTS": "22"
+        },
+        {
+            "Module Code": "Nurs3133",
+            "Module Name": "Obstetrics & Gynaecology Nursing practice",
+            "Course Code": "5",
+            "Course Name": "3",
+            "Module ECTS": "30"
+        },
+        {
+            "Module Code": "14",
+            "Module Name": "Nurs-M3141",
+            "Course Code": "Child health and pediatric nursing",
+            "Course Name": "12",
+            "Module ECTS": "Nurs3141"
+        },
+        {
+            "Module Code": "Nurs3142",
+            "Module Name": "Pediatric nursing practice",
+            "Course Code": "5",
+            "Course Name": "3",
+            "Module ECTS": "30"
+        },
+        {
+            "Module Code": "15",
+            "Module Name": "Nurs-M4151",
+            "Course Code": "Mental health nursing",
+            "Course Name": "7",
+            "Module ECTS": "Nurs4151"
+        },
+        {
+            "Module Code": "Nurs4152",
+            "Module Name": "Psychiatry nursing practicum",
+            "Course Code": "2",
+            "Course Name": "1",
+            "Module ECTS": "12"
+        },
+        {
+            "Module Code": "Comh4162",
+            "Module Name": "Health economics",
+            "Course Code": "2",
+            "Course Name": "1",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Nurs4163",
+            "Module Name": "Nursing service administration",
+            "Course Code": "3",
+            "Course Name": "2",
+            "Module ECTS": "8"
+        },
+        {
+            "Module Code": "Nurs4164",
+            "Module Name": "Nursing service practicum",
+            "Course Code": "2",
+            "Course Name": "1",
+            "Module ECTS": "12"
+        },
+        {
+            "Module Code": "Nurs4172",
+            "Module Name": "Medical nursing practice",
+            "Course Code": "5",
+            "Course Name": "3",
+            "Module ECTS": "30"
+        },
+        {
+            "Module Code": "Nurs4173",
+            "Module Name": "Surgical nursing practice",
+            "Course Code": "5",
+            "Course Name": "3",
+            "Module ECTS": "30"
+        },
+        {
+            "Module Code": "Nurs4174",
+            "Module Name": "Paediatrics nursing practice",
+            "Course Code": "5",
+            "Course Name": "3",
+            "Module ECTS": "30"
+        },
+        {
+            "Module Code": "Nurs4175",
+            "Module Name": "Obstetrics & gynaecology nursing practice",
+            "Course Code": "5",
+            "Course Name": "3",
+            "Module ECTS": "30"
+        },
+        {
+            "Module Code": "TTP4182",
+            "Module Name": "Team training program",
+            "Course Code": "7",
+            "Course Name": "4",
+            "Module ECTS": "43"
+        },
+        {
+            "Module Code": "Nurs4183",
+            "Module Name": "Student research Project",
+            "Course Code": "5",
+            "Course Name": "3",
+            "Module ECTS": "14"
+        }
+    ]
+}

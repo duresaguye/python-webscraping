@@ -1,0 +1,296 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": "Program duration (in years): Five for regular and six for extension",
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": "Program Objective",
+        "Program Objective": "General Objectives",
+        "Admission requirements": "Regular– the basic admission criterion for regular program is successful completion of the common first semester pre-engineering program, subject to possible screening on the basis of academic performance.Evening– the admission criterion for extension program is similar to other engineering extension programs at the AAiT and in addition to this common requirement, the applicant must have been employed by a healthcare institution (hospital, clinic, etc) as a biomedical technician for a minimum of two years.Advanced Standing– in both the regular and evening programs, limited seats are available for applicants with Diploma in Biomedical Technology and two years of relevant experience. The course list for exemption is prepared on a case by case basis depending of the courses taken in a prior study program.",
+        "Graduation requirement": "Total ECTS of 313 course work without “F” grade in any course;CGPA and MGPA of at least 2.0;Fulfill the Industry Attachment requirement; andBSc Thesis as partial fulfillment for B.Sc. degree."
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "Overview",
+            "Module Name": "OverviewTikur Anbessaveterinary",
+            "Course Code": "BackgroundICT ContactsOverviewOverviewServicesPublished BooksAAUP House StyleContacts",
+            "Course Name": "Overview",
+            "Module ECTS": "OverviewServicesPublished BooksAAUP House StyleContacts"
+        },
+        {
+            "Module Code": "I",
+            "Module Name": "General Education Modules",
+            "Course Code": "ECTS",
+            "Course Name": "Course Code",
+            "Module ECTS": "Course Title"
+        },
+        {
+            "Module Code": "1.1",
+            "Module Name": "EnLa–M1013",
+            "Course Code": "Basic English Skills",
+            "Course Name": "10",
+            "Module ECTS": "EnLa1011"
+        },
+        {
+            "Module Code": "1.2",
+            "Module Name": "CESt–M1023",
+            "Course Code": "Civics and Ethics",
+            "Course Name": "5",
+            "Module ECTS": "CESt1023"
+        },
+        {
+            "Module Code": "1.3",
+            "Module Name": "Phil–M1033",
+            "Course Code": "Introduction to Logic",
+            "Course Name": "5",
+            "Module ECTS": "Phil1033"
+        },
+        {
+            "Module Code": "II",
+            "Module Name": "Basic Engineering Modules",
+            "Course Code": "ECTS",
+            "Course Name": "Course Code",
+            "Module ECTS": "Course Title"
+        },
+        {
+            "Module Code": "2.1",
+            "Module Name": "GEng–M1043",
+            "Course Code": "Applied Engineering Mathematics",
+            "Course Name": "14",
+            "Module ECTS": "Math-1041"
+        },
+        {
+            "Module Code": "2.2",
+            "Module Name": "GEng–M1053",
+            "Course Code": "Engineering Mechanics",
+            "Course Name": "12",
+            "Module ECTS": "CEng-1051"
+        },
+        {
+            "Module Code": "2.3",
+            "Module Name": "GEng-M1063",
+            "Course Code": "Basic Engineering Skill",
+            "Course Name": "8",
+            "Module ECTS": "GEng-1061"
+        },
+        {
+            "Module Code": "III",
+            "Module Name": "Support Modules",
+            "Course Code": "ECTS",
+            "Course Name": "Course Code",
+            "Module ECTS": "Course Title"
+        },
+        {
+            "Module Code": "3.1",
+            "Module Name": "BMED-M2072",
+            "Course Code": "Basic Electricity and Electronics",
+            "Course Name": "12",
+            "Module ECTS": "ECEG-1071"
+        },
+        {
+            "Module Code": "3.2",
+            "Module Name": "BMED-M2082",
+            "Course Code": "Workshop Practice",
+            "Course Name": "5",
+            "Module ECTS": "BMED-2080"
+        },
+        {
+            "Module Code": "3.3",
+            "Module Name": "BMED-M2092",
+            "Course Code": "Intermediate Mathematics & Computing",
+            "Course Name": "20",
+            "Module ECTS": "BMED-2091"
+        },
+        {
+            "Module Code": "3.4",
+            "Module Name": "BMED-M3102",
+            "Course Code": "Digital Systems and Interfacing",
+            "Course Name": "11",
+            "Module ECTS": "ECEG-3101"
+        },
+        {
+            "Module Code": "3.5",
+            "Module Name": "BMED-M3112",
+            "Course Code": "Applied Electronics",
+            "Course Name": "12",
+            "Module ECTS": "ECEG-3111"
+        },
+        {
+            "Module Code": "3.6",
+            "Module Name": "BMED-M3122",
+            "Course Code": "Thermodynamics",
+            "Course Name": "5",
+            "Module ECTS": "BMED-3120"
+        },
+        {
+            "Module Code": "3.7",
+            "Module Name": "BMED-M3132",
+            "Course Code": "Instrumentation Engineering",
+            "Course Name": "5",
+            "Module ECTS": "ECEG-3130"
+        },
+        {
+            "Module Code": "3.8",
+            "Module Name": "BMED-M3142",
+            "Course Code": "Electromagnetics and Electrical Machines",
+            "Course Name": "5",
+            "Module ECTS": "ECEG-3140"
+        },
+        {
+            "Module Code": "3.9",
+            "Module Name": "BMED-M3152",
+            "Course Code": "Signals and Systems",
+            "Course Name": "5",
+            "Module ECTS": "ECEG-3150"
+        },
+        {
+            "Module Code": "3.10",
+            "Module Name": "BMED-M4162",
+            "Course Code": "Data Structures & OO Programming",
+            "Course Name": "5",
+            "Module ECTS": "ECEG-4160"
+        },
+        {
+            "Module Code": "3.11",
+            "Module Name": "BMED-M4172",
+            "Course Code": "Control Engineering",
+            "Course Name": "5",
+            "Module ECTS": "ECEG-4170"
+        },
+        {
+            "Module Code": "3.12",
+            "Module Name": "BMED-M5182",
+            "Course Code": "Quality Management",
+            "Course Name": "5",
+            "Module ECTS": "MEng-5180"
+        },
+        {
+            "Module Code": "3.13",
+            "Module Name": "BMED-M5192",
+            "Course Code": "Research Methods and Presentation",
+            "Course Name": "5",
+            "Module ECTS": "BMED-5190"
+        },
+        {
+            "Module Code": "3.14",
+            "Module Name": "BMED-M5202",
+            "Course Code": "Ethics and Entrepreneurship",
+            "Course Name": "7",
+            "Module ECTS": "GEng-5201"
+        },
+        {
+            "Module Code": "IV",
+            "Module Name": "Core Modules",
+            "Course Code": "ECTS",
+            "Course Name": "Course Code",
+            "Module ECTS": "Course Title"
+        },
+        {
+            "Module Code": "4.1",
+            "Module Name": "BMED-M2211",
+            "Course Code": "Basic Biomedical Science I",
+            "Course Name": "17",
+            "Module ECTS": "Anat-1211"
+        },
+        {
+            "Module Code": "4.2",
+            "Module Name": "BMED-M2221",
+            "Course Code": "Basic Biomedical Science II",
+            "Course Name": "20",
+            "Module ECTS": "Phys-2221"
+        },
+        {
+            "Module Code": "4.3",
+            "Module Name": "BMED-M3231",
+            "Course Code": "Basic Biomedical Science III",
+            "Course Name": "9",
+            "Module ECTS": "BMED-3231"
+        },
+        {
+            "Module Code": "4.4",
+            "Module Name": "BMED-M3241",
+            "Course Code": "Therapeutic Devices and Systems",
+            "Course Name": "5",
+            "Module ECTS": "BMED-3240"
+        },
+        {
+            "Module Code": "4.5",
+            "Module Name": "BMED-M3251",
+            "Course Code": "Biomedical Engineering",
+            "Course Name": "5",
+            "Module ECTS": "BMED-3250"
+        },
+        {
+            "Module Code": "4.6",
+            "Module Name": "BMED-M4261",
+            "Course Code": "Biomedical Instrumentation and Imaging",
+            "Course Name": "11",
+            "Module ECTS": "BMED-4261"
+        },
+        {
+            "Module Code": "4.7",
+            "Module Name": "BMED-M4271",
+            "Course Code": "Digital Signal and Image Processing",
+            "Course Name": "10",
+            "Module ECTS": "BMED-4271"
+        },
+        {
+            "Module Code": "4.8",
+            "Module Name": "BMED-M4281",
+            "Course Code": "Practical Attachment",
+            "Course Name": "30",
+            "Module ECTS": "BMED-4280"
+        },
+        {
+            "Module Code": "4.9",
+            "Module Name": "BMED-M4291",
+            "Course Code": "Biomedical Design",
+            "Course Name": "8",
+            "Module ECTS": "BMED-4291"
+        },
+        {
+            "Module Code": "4.10",
+            "Module Name": "BMED-M5301",
+            "Course Code": "Healthcare Technology Management",
+            "Course Name": "5",
+            "Module ECTS": "BMED-5300"
+        },
+        {
+            "Module Code": "4.11",
+            "Module Name": "BMED-M5311",
+            "Course Code": "Medical Safety and Regulations",
+            "Course Name": "5",
+            "Module ECTS": "BMED-5310"
+        },
+        {
+            "Module Code": "4.12",
+            "Module Name": "BMED-M5321",
+            "Course Code": "B.Sc. Thesis",
+            "Course Name": "12",
+            "Module ECTS": "BMED-5320"
+        },
+        {
+            "Module Code": "V",
+            "Module Name": "Elective Modules",
+            "Course Code": "ECTS",
+            "Course Name": "Course Code",
+            "Module ECTS": "Course Title"
+        },
+        {
+            "Module Code": "5.1",
+            "Module Name": "BMED-M5330",
+            "Course Code": "Elective Module Set I",
+            "Course Name": "10",
+            "Module ECTS": "BMED-5331"
+        },
+        {
+            "Module Code": "5.2",
+            "Module Name": "BMED-M5340",
+            "Course Code": "Elective Module Set II",
+            "Course Name": "5",
+            "Module ECTS": "BMED-5341"
+        }
+    ]
+}

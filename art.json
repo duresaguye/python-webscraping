@@ -1,0 +1,23 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": null,
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": null,
+        "Program Objective": null,
+        "Admission requirements": null,
+        "Graduation requirement": null
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "FAPM-M2081",
+            "Module Name": "Studio Drawing",
+            "Course Code": "12",
+            "Course Name": "",
+            "Module ECTS": "10"
+        }
+    ]
+}

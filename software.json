@@ -1,0 +1,205 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": "Program duration (in years): Five for regular and six for extension",
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": "Program Objective:",
+        "Program Objective": null,
+        "Admission requirements": "Graduation requirement:",
+        "Graduation requirement": "Total ECTS/Credits = 328/178No “F” grade in any course takenCGPA and MGPA of at least 2.00"
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "Overview",
+            "Module Name": "OverviewTikur Anbessaveterinary",
+            "Course Code": "BackgroundICT ContactsOverviewOverviewServicesPublished BooksAAUP House StyleContacts",
+            "Course Name": "Overview",
+            "Module ECTS": "OverviewServicesPublished BooksAAUP House StyleContacts"
+        },
+        {
+            "Module Code": "#",
+            "Module Name": "Modules Number",
+            "Course Code": "Module Title",
+            "Course Name": "ECTS",
+            "Module ECTS": "Course Code"
+        },
+        {
+            "Module Code": "01",
+            "Module Name": "EnLa-M1013",
+            "Course Code": "Basic English Skills",
+            "Course Name": "10",
+            "Module ECTS": "EnLa-1011"
+        },
+        {
+            "Module Code": "02",
+            "Module Name": "CESt-M1023",
+            "Course Code": "Civics and Ethics Education",
+            "Course Name": "5",
+            "Module ECTS": "CESt-1023"
+        },
+        {
+            "Module Code": "03",
+            "Module Name": "PHIL-M1033",
+            "Course Code": "Introduction to Logic",
+            "Course Name": "5",
+            "Module ECTS": "PHIL-1033"
+        },
+        {
+            "Module Code": "04",
+            "Module Name": "GEng-M1043",
+            "Course Code": "Applied Engineering Mathematics",
+            "Course Name": "14",
+            "Module ECTS": "Math-1041"
+        },
+        {
+            "Module Code": "05",
+            "Module Name": "GEng-M1053",
+            "Course Code": "Engineering Mechanics",
+            "Course Name": "12",
+            "Module ECTS": "CEng-1051"
+        },
+        {
+            "Module Code": "06",
+            "Module Name": "GEng-M1063",
+            "Course Code": "Basic Engineering Skills",
+            "Course Name": "8",
+            "Module ECTS": "GEng-1061"
+        },
+        {
+            "Module Code": "07",
+            "Module Name": "ITSE-M2211",
+            "Course Code": "Information Technology Fundamentals",
+            "Course Name": "7",
+            "Module ECTS": "ITSE-1071"
+        },
+        {
+            "Module Code": "08",
+            "Module Name": "ITSE-M5511",
+            "Course Code": "Human Computer Interaction",
+            "Course Name": "7",
+            "Module ECTS": "ITSE-3081"
+        },
+        {
+            "Module Code": "09",
+            "Module Name": "ITSE-M7811",
+            "Course Code": "Information Assurance and Security",
+            "Course Name": "14",
+            "Module ECTS": "ITSE-4091"
+        },
+        {
+            "Module Code": "10",
+            "Module Name": "ITSE-M4511",
+            "Course Code": "Networking",
+            "Course Name": "21",
+            "Module ECTS": "ITSE-2121"
+        },
+        {
+            "Module Code": "11",
+            "Module Name": "ITSE-M2411",
+            "Course Code": "Programming Fundamentals I",
+            "Course Name": "14",
+            "Module ECTS": "ITSE-1131"
+        },
+        {
+            "Module Code": "12",
+            "Module Name": "ITSE-M2411",
+            "Course Code": "Programming Fundamentals II",
+            "Course Name": "14",
+            "Module ECTS": "ITSE-2132"
+        },
+        {
+            "Module Code": "13",
+            "Module Name": "ITSE-M8811",
+            "Course Code": "Social and Professional Issues",
+            "Course Name": "12",
+            "Module ECTS": "ITSE-4182"
+        },
+        {
+            "Module Code": "14",
+            "Module Name": "ITSE-M4811",
+            "Course Code": "Web Systems and Technologies I",
+            "Course Name": "13",
+            "Module ECTS": "ITSE-2192"
+        },
+        {
+            "Module Code": "15",
+            "Module Name": "ITSE-M4812",
+            "Course Code": "Web Systems and Technologies II",
+            "Course Name": "13",
+            "Module ECTS": "ITSE-3193"
+        },
+        {
+            "Module Code": "16",
+            "Module Name": "ITSE-M4812",
+            "Course Code": "System Integration and Architecture",
+            "Course Name": "24",
+            "Module ECTS": "ITSE-2211"
+        },
+        {
+            "Module Code": "17",
+            "Module Name": "ITSE-M3311",
+            "Course Code": "Information Management",
+            "Course Name": "14",
+            "Module ECTS": "ITSE-2221"
+        },
+        {
+            "Module Code": "18",
+            "Module Name": "ITSE-M3321",
+            "Course Code": "Math and Statistics for IT",
+            "Course Name": "12",
+            "Module ECTS": "ITSE-2231"
+        },
+        {
+            "Module Code": "19",
+            "Module Name": "ITSE-M5911",
+            "Course Code": "Advanced Programming I",
+            "Course Name": "14",
+            "Module ECTS": "ITSE-3241"
+        },
+        {
+            "Module Code": "20",
+            "Module Name": "ITSE-M5912",
+            "Course Code": "Advanced Programming II",
+            "Course Name": "13",
+            "Module ECTS": "ITSE-5243"
+        },
+        {
+            "Module Code": "21",
+            "Module Name": "ITSE-M2911",
+            "Course Code": "Platform Technologies I",
+            "Course Name": "20",
+            "Module ECTS": "ITSE-3251"
+        },
+        {
+            "Module Code": "22",
+            "Module Name": "ITSE-M2912",
+            "Course Code": "Platform Technologies II",
+            "Course Name": "24",
+            "Module ECTS": "ITSE-4254"
+        },
+        {
+            "Module Code": "23",
+            "Module Name": "ITSE-M3711",
+            "Course Code": "Systems and Application Specialties",
+            "Course Name": "12",
+            "Module ECTS": "ITSE-1261"
+        },
+        {
+            "Module Code": "24",
+            "Module Name": "ITSE-M911",
+            "Course Code": "Project",
+            "Course Name": "14",
+            "Module ECTS": "ITSE-5271"
+        },
+        {
+            "Module Code": "25",
+            "Module Name": "ITSE-M5581",
+            "Course Code": "Electives",
+            "Course Name": "12",
+            "Module ECTS": ""
+        }
+    ]
+}

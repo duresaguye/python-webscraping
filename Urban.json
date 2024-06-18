@@ -1,0 +1,240 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": "Program duration (in years): Five for regular",
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": "Program Objective– modern Urban and Regional Planning arose in response to specific social and economic problems triggered off by the Industrial Revolution at the end of the 18th century. In the evolution of urban planning theory in England (which also applies to many of the western world despite time difference), Hall (1992) identified three different stages. The first, developed from the earliest times down to the mid-1960s and well exemplified in the early development plans coming after the 1947 town and country planning act, could be called the Master Plan or blue print era. The second phase, that ushered in from about 1960, and replaced the first approach through the planning advisory group of 1965 and the 1968 town and country planning act, could be called the system view of planning. The last phase was where planning was considered as continuous participation. This phase, which began to evolve in the late 1960s and the 1970s, is more heterogeneous and more diffuse; it may be labeled the idea of planning as continuous participation in conflict. Each planning approach as Rodriguez (1988: 37) indicated was a response to a shift in political attitudes and economic circumstances, and, to a lesser extent, a reflection of evolving ideas within planning itself.",
+        "Program Objective": "Admission requirements– the department shall admit between 50 and 100 students depending on current capacity. The candidates should successfully complete the preparatory program (10+2) and pass an entrance examination given by the department.",
+        "Admission requirements": "Graduation requirement",
+        "Graduation requirement": "Take modules/courses equivalent to 300ECTSCGPA and MGPA of at least 2.00, andNo ‘F’ grade in any course/module taken."
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "Overview",
+            "Module Name": "OverviewTikur Anbessaveterinary",
+            "Course Code": "BackgroundICT ContactsOverviewOverviewServicesPublished BooksAAUP House StyleContacts",
+            "Course Name": "Overview",
+            "Module ECTS": "OverviewServicesPublished BooksAAUP House StyleContacts"
+        },
+        {
+            "Module Code": "Module Name",
+            "Module Name": "Module Code",
+            "Course Code": "Course Name",
+            "Course Name": "Course Code",
+            "Module ECTS": "Module ECTS"
+        },
+        {
+            "Module Code": "Applied Engineering Mathematics",
+            "Module Name": "URPL-M1014",
+            "Course Code": "Applied Mathematics",
+            "Course Name": "Math1041",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Basic English Skills",
+            "Module Name": "EnLa-M1013",
+            "Course Code": "Communicative English skills",
+            "Course Name": "EnLa 1011",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Civics & Ethics",
+            "Module Name": "CESt-M1023",
+            "Course Code": "Civics & Ethics",
+            "Course Name": "CESt 1023",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Sketching, drafting and descriptive geometry",
+            "Module Name": "URPL-M1023",
+            "Course Code": "Sketching, Drafting and Descriptive Geometry I",
+            "Course Name": "URPL1021",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Computer Aided Design",
+            "Module Name": "URPL-M1033",
+            "Course Code": "AutoCAD I",
+            "Course Name": "URPL1031",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "Geo Information System",
+            "Module Name": "URPL-M2043",
+            "Course Code": "GIS I",
+            "Course Name": "URPL2041",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "Surveying & photogrammetry",
+            "Module Name": "URPL-M2053",
+            "Course Code": "Advanced Model Making",
+            "Course Name": "URPL2051",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Basic Architectural Design",
+            "Module Name": "URPL-M1061",
+            "Course Code": "Basic Architectural Design I",
+            "Course Name": "URPL1061",
+            "Module ECTS": "6"
+        },
+        {
+            "Module Code": "Resource Management",
+            "Module Name": "URPL-M1071",
+            "Course Code": "Energy & Water Resource Management",
+            "Course Name": "URPL1071",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Introduction to the City",
+            "Module Name": "URPL-M1081",
+            "Course Code": "Introduction to the City & Urban Planning",
+            "Course Name": "URPL1081",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Theories & Techniques in Urban Planning",
+            "Module Name": "URPL-M1091",
+            "Course Code": "Theory of the approaches of Urban planning",
+            "Course Name": "URPL1091",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "Urban & Regional Planning Strategies",
+            "Module Name": "URPL-M3101",
+            "Course Code": "Appropriate Planning strategies for Developing Territories",
+            "Course Name": "URPL3101",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "Elements of Urban Planning",
+            "Module Name": "URPL-M3111",
+            "Course Code": "Urban& Regional Planning & Mobility",
+            "Course Name": "URPL3111",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "Laws Affecting Urban & Regional Planning",
+            "Module Name": "URPL-M3121",
+            "Course Code": "Legal Base of Urban & Regional Planning",
+            "Course Name": "URPL3121",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "Urban Housing",
+            "Module Name": "URPL-M4131",
+            "Course Code": "Urban Housing",
+            "Course Name": "URPL4131",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "History of the Morphology of Cities",
+            "Module Name": "URPL-M1141",
+            "Course Code": "History of Morphology of Cities I",
+            "Course Name": "URPL1141",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Morphology & Transformation of City forms",
+            "Module Name": "URPL-M2151",
+            "Course Code": "Morphology & Transformation of City forms",
+            "Course Name": "URPL2151",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "Urban Economics",
+            "Module Name": "URPL-M2161",
+            "Course Code": "Introduction to Economics",
+            "Course Name": "URPL2161",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Urban Sociology",
+            "Module Name": "URPL-M3171",
+            "Course Code": "Introduction to Urban Sociology",
+            "Course Name": "URPL2171",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Urban Environmental Management I",
+            "Module Name": "URPL-M2181",
+            "Course Code": "Management of the Urban Environment",
+            "Course Name": "URPL2181",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Project I",
+            "Module Name": "URPL-M1191",
+            "Course Code": "Integrated urban Project I( basic urban design)",
+            "Course Name": "URPL1191",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "Project II",
+            "Module Name": "URPL-M2201",
+            "Course Code": "Integrated urban Project II (urban design)",
+            "Course Name": "URPL2201",
+            "Module ECTS": "12"
+        },
+        {
+            "Module Code": "Project III",
+            "Module Name": "URPL-M3211",
+            "Course Code": "Integrated urban Project IV (extension of an existing city planning)",
+            "Course Name": "URPL3211",
+            "Module ECTS": "12"
+        },
+        {
+            "Module Code": "Project V",
+            "Module Name": "URPL-M4221",
+            "Course Code": "Integrated urban Project VI (housing and inner city redevelopment)",
+            "Course Name": "URPL4221",
+            "Module ECTS": "12"
+        },
+        {
+            "Module Code": "Internship",
+            "Module Name": "URPL-M4231",
+            "Course Code": "UIL",
+            "Course Name": "URPL4231",
+            "Module ECTS": "30"
+        },
+        {
+            "Module Code": "Landscape Design",
+            "Module Name": "URPL-M3241",
+            "Course Code": "Introduction to Landscape Design",
+            "Course Name": "URPL3241",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "Urban Environnemental Management II",
+            "Module Name": "URPL-M4251",
+            "Course Code": "Urban Ecology",
+            "Course Name": "URPL4251",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "Urban Governance and Management",
+            "Module Name": "URPL-M5261",
+            "Course Code": "Urban Governance and Management I",
+            "Course Name": "URPL5261",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "Research methods in social science",
+            "Module Name": "URPL-M5283",
+            "Course Code": "Methods of project formulation and research with case studies",
+            "Course Name": "URPL5281",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Thesis",
+            "Module Name": "URPL-M5291",
+            "Course Code": "Thesis",
+            "Course Name": "URPL5291",
+            "Module ECTS": "15"
+        }
+    ]
+}

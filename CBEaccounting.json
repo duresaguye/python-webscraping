@@ -1,0 +1,492 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": null,
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": null,
+        "Program Objective": null,
+        "Admission requirements": null,
+        "Graduation requirement": null
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "ModuleNo",
+            "Module Name": "ModuleTitle",
+            "Course Code": "Modulecode",
+            "Course Name": "CourseTitle",
+            "Module ECTS": "CourseCode"
+        },
+        {
+            "Module Code": "M3",
+            "Module Name": "Basics of Accounting and Reporting",
+            "Course Code": "AcFn-M1031",
+            "Course Name": "Principles of Accounting I",
+            "Module ECTS": "AcFn1031"
+        },
+        {
+            "Module Code": "Principles of Accounting II",
+            "Module Name": "AcFn1032",
+            "Course Code": "4",
+            "Course Name": "6",
+            "Module ECTS": "162"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": "8"
+        },
+        {
+            "Module Code": "M8",
+            "Module Name": "Financial Accounting and Reporting",
+            "Course Code": "AcFn-M2081",
+            "Course Name": "Financial Accounting I",
+            "Module ECTS": "AcFn2081"
+        },
+        {
+            "Module Code": "Financial Accounting II",
+            "Module Name": "AcFn2082",
+            "Course Code": "4",
+            "Course Name": "6",
+            "Module ECTS": "162"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "M9",
+            "Module Name": "Cost and Managerial Accounting",
+            "Course Code": "AcFn-M2091",
+            "Course Name": "Cost and Management Accounting I",
+            "Module ECTS": "AcFn2091"
+        },
+        {
+            "Module Code": "Cost and Management Accounting II",
+            "Module Name": "AcFn2092",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "135"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "M10",
+            "Module Name": "Corporate Finance",
+            "Course Code": "AcFn-M2101",
+            "Course Name": "Financial management I",
+            "Module ECTS": "AcFn2101"
+        },
+        {
+            "Module Code": "Financial management II",
+            "Module Name": "AcFn2102",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "135"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "M20",
+            "Module Name": "Project and Investment Analysis",
+            "Course Code": "AcFn-M3201",
+            "Course Name": "Project Analysis and Evaluation",
+            "Module ECTS": "AcFn3202"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Investment analysis and portfolio management",
+            "Course Code": "AcFn3201",
+            "Course Name": "2",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "M16",
+            "Module Name": "Auditing and Assurance Services",
+            "Course Code": "AcFn-M3161",
+            "Course Name": "Auditing Principles and Practices I",
+            "Module ECTS": "AcFn3161"
+        },
+        {
+            "Module Code": "Auditing Principles and Practices II",
+            "Module Name": "AcFn3162",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "135"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "M12",
+            "Module Name": "Non-Profit Sector Accounting",
+            "Course Code": "AcFn-M2121",
+            "Course Name": "Government and Non-profit Accounting",
+            "Module ECTS": "AcFn2121"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "Ethiopian Government Accounting",
+            "Module ECTS": "AcFn3122"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "M11",
+            "Module Name": "Financial Institutions",
+            "Course Code": "AcFn-M2111",
+            "Course Name": "Financial Markets and Institutions",
+            "Module ECTS": "AcFn2112"
+        },
+        {
+            "Module Code": "Banking Principles and Practices",
+            "Module Name": "AcFn2113",
+            "Course Code": "2",
+            "Course Name": "3",
+            "Module ECTS": "81"
+        },
+        {
+            "Module Code": "Risk Management and Insurance",
+            "Module Name": "AcFn2111",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "135"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "M17",
+            "Module Name": "Public Finance and Taxation",
+            "Course Code": "AcFn-M3171",
+            "Course Name": "Public Finance and Taxation",
+            "Module ECTS": "AcFn3171"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "M15",
+            "Module Name": "Advanced Financial Accounting",
+            "Course Code": "AcFn-M3151",
+            "Course Name": "Advanced Financial Accounting",
+            "Module ECTS": "AcFn3151"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "M13",
+            "Module Name": "Research in Accounting and Finance",
+            "Course Code": "AcFn-M2131",
+            "Course Name": "Research methods in Accounting & Finance",
+            "Module ECTS": "AcFn2131"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "M21",
+            "Module Name": "Senior Research",
+            "Course Code": "AcFn-M3211",
+            "Course Name": "Senior Research Project I",
+            "Module ECTS": "AcFn3211"
+        },
+        {
+            "Module Code": "Senior Research Project II",
+            "Module Name": "AcFn3212",
+            "Course Code": "2",
+            "Course Name": "3",
+            "Module ECTS": "81"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "M18",
+            "Module Name": "Accounting Information Systems",
+            "Course Code": "AcFn-M3181",
+            "Course Name": "Accounting Information Systems",
+            "Module ECTS": "AcFn3181"
+        },
+        {
+            "Module Code": "Accounting Software Application",
+            "Module Name": "AcFn3182",
+            "Course Code": "2",
+            "Course Name": "3",
+            "Module ECTS": "81"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "M4",
+            "Module Name": "Quantitative and Computing Methods for Finance",
+            "Course Code": "AcFn-M1041",
+            "Course Name": "Mathematics for Finance",
+            "Module ECTS": "AcFn1041"
+        },
+        {
+            "Module Code": "Statistics for Finance",
+            "Module Name": "AcFn1043",
+            "Course Code": "4",
+            "Course Name": "6",
+            "Module ECTS": "162"
+        },
+        {
+            "Module Code": "Fundamentals of Information Systems",
+            "Module Name": "AcFn1042",
+            "Course Code": "2",
+            "Course Name": "3",
+            "Module ECTS": "81"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "SUBTOTALFORMAJORCOURSES",
+            "Course Code": "78",
+            "Course Name": "123",
+            "Module ECTS": "3321"
+        },
+        {
+            "Module Code": "ModulesNo",
+            "Module Name": "ModuleTitle",
+            "Course Code": "Modulecode",
+            "Course Name": "CourseTitle",
+            "Module ECTS": "CourseCode"
+        },
+        {
+            "Module Code": "M5",
+            "Module Name": "Basic Management Concepts",
+            "Course Code": "Mgmt-M1052",
+            "Course Name": "Introduction to Management",
+            "Module ECTS": "Mgmt1051"
+        },
+        {
+            "Module Code": "Principles of Marketing",
+            "Module Name": "Mgmt1052",
+            "Course Code": "2",
+            "Course Name": "3",
+            "Module ECTS": "81"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "M20",
+            "Module Name": "Business Law",
+            "Course Code": "Law-M3202",
+            "Course Name": "Business Law",
+            "Module ECTS": "Law3201"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "M14",
+            "Module Name": "Entrepreneurship and Strategy",
+            "Course Code": "Mgmt-M2142",
+            "Course Name": "Entrepreneurship",
+            "Module ECTS": "Mgmt2141"
+        },
+        {
+            "Module Code": "Strategic Management",
+            "Module Name": "Mgmt2142",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "135"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "M19",
+            "Module Name": "Operations Management",
+            "Course Code": "Mgmt-M3192",
+            "Course Name": "Operation Management",
+            "Module ECTS": "Mgmt3191"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "M7",
+            "Module Name": "Economics",
+            "Course Code": "Econ-M1072",
+            "Course Name": "Microeconomics",
+            "Module ECTS": "Econ1071"
+        },
+        {
+            "Module Code": "Macroeconomics",
+            "Module Name": "Econ2072",
+            "Course Code": "3",
+            "Course Name": "5",
+            "Module ECTS": "135"
+        },
+        {
+            "Module Code": "M22",
+            "Module Name": "Econometrics",
+            "Course Code": "Econ-M3222",
+            "Course Name": "Introduction to Econometrics",
+            "Module ECTS": "ECON 3221"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "SUBTOTALFORSUPPORTIVECOURSES",
+            "Course Code": "26",
+            "Course Name": "42",
+            "Module ECTS": "1134"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "ModulesNo",
+            "Module Name": "ModuleTitle",
+            "Course Code": "Modulecode",
+            "Course Name": "CourseTitle",
+            "Module ECTS": "CourseCode"
+        },
+        {
+            "Module Code": "M1",
+            "Module Name": "Basic English Skills",
+            "Course Code": "EnLa-M1013",
+            "Course Name": "Communicative English Skills",
+            "Module ECTS": "EnLa1011"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "Basic Writing Skills",
+            "Course Name": "EnLa1012",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "M2",
+            "Module Name": "Civics and Ethics",
+            "Course Code": "CvEt-M1023",
+            "Course Name": "Civics and Ethical Education",
+            "Module ECTS": "CvEt1021"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "M6",
+            "Module Name": "Psychology",
+            "Course Code": "Psyc-M1063",
+            "Course Name": "Introduction to Psychology",
+            "Module ECTS": "Psyc1061"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "SUBTOTALFORFOUNDATIONCOURSES",
+            "Course Code": "12",
+            "Course Name": "20",
+            "Module ECTS": "540"
+        }
+    ]
+}

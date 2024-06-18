@@ -1,0 +1,401 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": "Program duration (in years):  Four for regular and five for extension",
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": "Program Objective– graduates, in general, will specifically have the chance to have knowledge and understanding in the following major areas:",
+        "Program Objective": "Theoretical background on the functionalities of computer and application of computer to businesses;Theories, principles, processes and techniques of organization, storage, retrieval, dissemination and utilization of all forms of information;Understanding of computers and communication systems, including basic software engineering, network design, database development, implementation and management;Knowledge of organizational behaviors and different organizational principles;Various types of academic and business information resources, systems and services;Knowledge of basic principles of ICT-based business information processing techniques;Theories, practices and principles of information systems analysis, design, development and management in the business environment;Principles and different approaches of computer programming and algorithm development to solve real world problems;Theories, practices and principles of business process engineering in a creative manner to solve information related problem of businesses and organizations.",
+        "Admission requirements": "The requirements for admission to the program are as per the University’s admission requirement.",
+        "Graduation requirement": null
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "Overview",
+            "Module Name": "OverviewTikur Anbessaveterinary",
+            "Course Code": "BackgroundICT ContactsOverviewOverviewServicesPublished BooksAAUP House StyleContacts",
+            "Course Name": "Overview",
+            "Module ECTS": "OverviewServicesPublished BooksAAUP House StyleContacts"
+        },
+        {
+            "Module Code": "Module Code",
+            "Module Name": "Module Title",
+            "Course Code": "ModuleCP",
+            "Course Name": "Category",
+            "Module ECTS": "Course Code"
+        },
+        {
+            "Module Code": "INSY-M1011",
+            "Module Name": "Basics of Information Systems and Business",
+            "Course Code": "17",
+            "Course Name": "Compulsory",
+            "Module ECTS": "INSY1011"
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY1012",
+            "Course Code": "Information and Society",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Supportive",
+            "Module Name": "INSY1013",
+            "Course Code": "Introduction to Business",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "MGMT-M1061",
+            "Module Name": "Fundamentals of Management",
+            "Course Code": "5",
+            "Course Name": "Supportive",
+            "Module ECTS": "MGMT 1061"
+        },
+        {
+            "Module Code": "STAT-M2163",
+            "Module Name": "Introductory Statistics",
+            "Course Code": "5",
+            "Course Name": "Supportive",
+            "Module ECTS": "Stat 2161"
+        },
+        {
+            "Module Code": "ACFN-M1031",
+            "Module Name": "Basics of Accounting and Reporting",
+            "Course Code": "5",
+            "Course Name": "Supportive",
+            "Module ECTS": "AcFn1031"
+        },
+        {
+            "Module Code": "INSY-M1021",
+            "Module Name": "Fundamentals of Programming",
+            "Course Code": "10",
+            "Course Name": "Compulsory",
+            "Module ECTS": "INSY1021"
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY1022",
+            "Course Code": "Fundamentals of Programming II",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Math-M2233",
+            "Module Name": "Discrete Mathematics",
+            "Course Code": "5",
+            "Course Name": "Supportive",
+            "Module ECTS": "Math 2231"
+        },
+        {
+            "Module Code": "INSY-M2031",
+            "Module Name": "Advanced Programming",
+            "Course Code": "19",
+            "Course Name": "Compulsory",
+            "Module ECTS": "INSY2031"
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY2032",
+            "Course Code": "Data Structure and Algorithms",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY2033",
+            "Course Code": "Event Driven Programming",
+            "Course Name": "7",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "INSY-M2041",
+            "Module Name": "Computer Systems",
+            "Course Code": "10",
+            "Course Name": "Compulsory",
+            "Module ECTS": "INSY2041"
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY2042",
+            "Course Code": "Operating Systems",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "INSY-M2051",
+            "Module Name": "Information Systems Development",
+            "Course Code": "15",
+            "Course Name": "Compulsory",
+            "Module ECTS": "INSY2051"
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY2052",
+            "Course Code": "Fundamentals of  System Analysis and Design",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY2053",
+            "Course Code": "Object Oriented System Analysis and Design",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "INSY-M2061",
+            "Module Name": "Database and Information Management",
+            "Course Code": "15",
+            "Course Name": "Compulsory",
+            "Module ECTS": "INSY2061"
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY2062",
+            "Course Code": "Advanced Database Systems",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY2063",
+            "Course Code": "Introduction to Information Storage and Retrieval",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "INSY-M3071",
+            "Module Name": "Computer Networks,  Administration and Security",
+            "Course Code": "20",
+            "Course Name": "Compulsory",
+            "Module ECTS": "INSY3071"
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY3072",
+            "Course Code": "Systems and Network Administration",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY3074",
+            "Course Code": "Wireless Networking and Mobile Computing",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY3073",
+            "Course Code": "Information System Security",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "INSY-M3081",
+            "Module Name": "Internet and Web-Technology",
+            "Course Code": "15",
+            "Course Name": "Compulsory",
+            "Module ECTS": "INSY3081"
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY3082",
+            "Course Code": "Advanced Internet Programming",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY3083",
+            "Course Code": "E-Commerce",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "INSY-M3091",
+            "Module Name": "Intelligent Systems",
+            "Course Code": "20",
+            "Course Name": "Compulsory",
+            "Module ECTS": "INSY3091"
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY3092",
+            "Course Code": "Expert Systems",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY3093",
+            "Course Code": "Knowledge Management",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY3094",
+            "Course Code": "Data Mining and Warehousing",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "INSY-M4101",
+            "Module Name": "Information Systems Management",
+            "Course Code": "15",
+            "Course Name": "Compulsory",
+            "Module ECTS": "INSY4101"
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY4102",
+            "Course Code": "Information Systems  Project Management",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY4103",
+            "Course Code": "Enterprise Systems",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "MGMT-M2081",
+            "Module Name": "Human Resource and Organizational Behavior",
+            "Course Code": "5",
+            "Course Name": "Supportive",
+            "Module ECTS": "MGMT 2082"
+        },
+        {
+            "Module Code": "INSY-M4111",
+            "Module Name": "Multimedia and Human Computer Interaction",
+            "Course Code": "10",
+            "Course Name": "Compulsory",
+            "Module ECTS": "INSY4111"
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY4112",
+            "Course Code": "Human Computer Interaction",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "INSY-M4121",
+            "Module Name": "Industrial Project and Seminar",
+            "Course Code": "14",
+            "Course Name": "Compulsory",
+            "Module ECTS": "INSY4121"
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY4122",
+            "Course Code": "Industrial Project II",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Compulsory",
+            "Module Name": "INSY4123",
+            "Course Code": "Seminar in Information System",
+            "Course Name": "4",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "MGMT-M3191",
+            "Module Name": "Innovation and Project Management",
+            "Course Code": "5",
+            "Course Name": "Supportive",
+            "Module ECTS": "MGMT 3161"
+        },
+        {
+            "Module Code": "Psyc-M1011",
+            "Module Name": "Fundamentals of Psychology",
+            "Course Code": "5",
+            "Course Name": "Supportive",
+            "Module ECTS": "Psyc1011"
+        },
+        {
+            "Module Code": "StatM2163",
+            "Module Name": "Introductory Statistics",
+            "Course Code": "5",
+            "Course Name": "Supportive",
+            "Module ECTS": "Stat 2161"
+        },
+        {
+            "Module Code": "Module Code",
+            "Module Name": "Module Title",
+            "Course Code": "Module CP",
+            "Course Name": "Category",
+            "Module ECTS": "Course Code"
+        },
+        {
+            "Module Code": "INSY-M3131",
+            "Module Name": "GIS and Remote Sensing",
+            "Course Code": "5",
+            "Course Name": "Elective",
+            "Module ECTS": "INSY3131"
+        },
+        {
+            "Module Code": "INSY-M3142",
+            "Module Name": "Computer Maintenance and Troubleshooting",
+            "Course Code": "5",
+            "Course Name": "Elective",
+            "Module ECTS": "INSY3141"
+        },
+        {
+            "Module Code": "LING-M1011",
+            "Module Name": "Language, Linguistics and Communication",
+            "Course Code": "5",
+            "Course Name": "Elective",
+            "Module ECTS": "LING 1011"
+        },
+        {
+            "Module Code": "Module Code",
+            "Module Name": "Module Title",
+            "Course Code": "Module CP",
+            "Course Name": "Category",
+            "Module ECTS": "Course Code"
+        },
+        {
+            "Module Code": "CESt-M1023",
+            "Module Name": "Civics and Ethics",
+            "Course Code": "5",
+            "Course Name": "Common Course",
+            "Module ECTS": "CESt1023"
+        },
+        {
+            "Module Code": "Phil-M1033",
+            "Module Name": "Introduction to Logic",
+            "Course Code": "5",
+            "Course Name": "Common Course",
+            "Module ECTS": "Phil1033"
+        },
+        {
+            "Module Code": "EnLa-M1013",
+            "Module Name": "Basic English Skills",
+            "Course Code": "10",
+            "Course Name": "Common Course",
+            "Module ECTS": "EnLa1011"
+        }
+    ]
+}

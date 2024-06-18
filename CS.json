@@ -1,0 +1,408 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": null,
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": null,
+        "Program Objective": null,
+        "Admission requirements": null,
+        "Graduation requirement": null
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "Module Code",
+            "Module Name": "Module Title",
+            "Course Code": "Credit Hours",
+            "Course Name": "ECTS",
+            "Module ECTS": "Lecture hour"
+        },
+        {
+            "Module Code": "CoSc 6001",
+            "Module Name": "Research Methods",
+            "Course Code": "2",
+            "Course Name": "4.7",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "CoSc 6003",
+            "Module Name": "Distributed Systems",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6301",
+            "Module Name": "Computer Security",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6101",
+            "Module Name": "Software Project Management",
+            "Course Code": "1",
+            "Course Name": "2.3",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "CoSc 6201",
+            "Module Name": "Distributed Database Systems",
+            "Course Code": "2",
+            "Course Name": "4.7",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "CoSc 6405",
+            "Module Name": "Natural Language Processing",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 7001",
+            "Module Name": "Thesis",
+            "Course Code": "6",
+            "Course Name": "30",
+            "Module ECTS": "–"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Sub-Total",
+            "Course Code": "20",
+            "Course Name": "62.7",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Module Code",
+            "Module Name": "Module Title",
+            "Course Code": "Credit Hours",
+            "Course Name": "ECTS",
+            "Module ECTS": "Lecture hour"
+        },
+        {
+            "Module Code": "CoSc 6202",
+            "Module Name": "Multimedia- and Spatial-Data Management",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6204",
+            "Module Name": "Semantic Web Technologies",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6206",
+            "Module Name": "Data Mining and Data warehouse",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6208",
+            "Module Name": "Seminar in Data & Web Engineering",
+            "Course Code": "1",
+            "Course Name": "2.3",
+            "Module ECTS": "–"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Sub-Total",
+            "Course Code": "10",
+            "Course Name": "23.3",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Module Code",
+            "Module Name": "Module Title",
+            "Course Code": "Credit Hours",
+            "Course Name": "ECTS",
+            "Module ECTS": "Lecture hour"
+        },
+        {
+            "Module Code": "CoSc 6012",
+            "Module Name": "Digital Image Processing",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6014",
+            "Module Name": "Cloud Computing",
+            "Course Code": "2",
+            "Course Name": "4.7",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "CoSc 6304",
+            "Module Name": "Pervasive Computing",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6210",
+            "Module Name": "Web Retrieval Systems",
+            "Course Code": "2",
+            "Course Name": "4.7",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "CoSc 6209",
+            "Module Name": "Big Data",
+            "Course Code": "2",
+            "Course Name": "4.7",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Sub-Total",
+            "Course Code": "2/3",
+            "Course Name": "4.7/7",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Module Code",
+            "Module Name": "Module Title",
+            "Course Code": "Credit Hours",
+            "Course Name": "ECTS",
+            "Module ECTS": "Lecture hour"
+        },
+        {
+            "Module Code": "CoSc 6102",
+            "Module Name": "Software Development and Project Management",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6104",
+            "Module Name": "Software Testing and Quality",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6106",
+            "Module Name": "Software Architecture and Design",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6108",
+            "Module Name": "Seminar in Software Engineering",
+            "Course Code": "1",
+            "Course Name": "2.3",
+            "Module ECTS": "–"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Sub-Total",
+            "Course Code": "10",
+            "Course Name": "23.3",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Module Code",
+            "Module Name": "Module Title",
+            "Course Code": "Credit Hours",
+            "Course Name": "ECTS",
+            "Module ECTS": "Lecture hour"
+        },
+        {
+            "Module Code": "CoSc 6110",
+            "Module Name": "Usability Engineering",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6112",
+            "Module Name": "Enterprise and Service Architecture",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6014",
+            "Module Name": "Cloud Computing",
+            "Course Code": "2",
+            "Course Name": "4.7",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "CoSc 6304",
+            "Module Name": "Pervasive Computing",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Sub-Total",
+            "Course Code": "2/3",
+            "Course Name": "4.7/7",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Module Code",
+            "Module Name": "Module Title",
+            "Course Code": "Credit Hours",
+            "Course Name": "ECTS",
+            "Module ECTS": "Lecture hour"
+        },
+        {
+            "Module Code": "CoSc 6302",
+            "Module Name": "Advanced Computer Networks",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6304",
+            "Module Name": "Pervasive Computing",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6306",
+            "Module Name": "Cyber Security",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6308",
+            "Module Name": "Seminar in Network and Security",
+            "Course Code": "1",
+            "Course Name": "2.3",
+            "Module ECTS": "–"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Sub-Total",
+            "Course Code": "10",
+            "Course Name": "23.3",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Module Code",
+            "Module Name": "Module Title",
+            "Course Code": "Credit Hours",
+            "Course Name": "ECTS",
+            "Module ECTS": "Lecture hour"
+        },
+        {
+            "Module Code": "CoSc  6014",
+            "Module Name": "Cloud Computing",
+            "Course Code": "2",
+            "Course Name": "4.7",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "CoSc  6016",
+            "Module Name": "Real Time and Embedded Systems",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Sub-Total",
+            "Course Code": "2/3",
+            "Course Name": "4.7/7",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Module Code",
+            "Module Name": "Module Title",
+            "Course Code": "Credit Hours",
+            "Course Name": "ECTS",
+            "Module ECTS": "Lecture hour"
+        },
+        {
+            "Module Code": "CoSc 6302",
+            "Module Name": "Advanced Computer Networks",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6012",
+            "Module Name": "Digital Image Processing",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "CoSc 6016",
+            "Module Name": "Real Time and Embedded Systems",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6002",
+            "Module Name": "Seminar in Computer Science",
+            "Course Code": "1",
+            "Course Name": "2.3",
+            "Module ECTS": "–"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Sub-Total",
+            "Course Code": "10",
+            "Course Name": "23.3",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Module Code",
+            "Module Name": "Module Title",
+            "Course Code": "Credit Hours",
+            "Course Name": "ECTS",
+            "Module ECTS": "Lecture hour"
+        },
+        {
+            "Module Code": "CoSc 6014",
+            "Module Name": "Cloud Computing",
+            "Course Code": "2",
+            "Course Name": "4.7",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "CoSc 6304",
+            "Module Name": "Pervasive Computing",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6206",
+            "Module Name": "Data Mining and Data warehouse",
+            "Course Code": "3",
+            "Course Name": "7",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "CoSc 6210",
+            "Module Name": "Web Retrieval Systems",
+            "Course Code": "2",
+            "Course Name": "4.7",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Sub-Total",
+            "Course Code": "2/3",
+            "Course Name": "4.7/7",
+            "Module ECTS": ""
+        }
+    ]
+}

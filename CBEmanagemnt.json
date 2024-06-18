@@ -1,0 +1,660 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": "Program duration (in years): Three for regular and Four for extension",
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": "Program Objective:through its programs the department has the objectives of producing:",
+        "Program Objective": null,
+        "Admission requirements": "As per the regulations of Ministry of Education,As per the senate legislation of the university, orA pass in entrance examination set by the department",
+        "Graduation requirement": "A minimum credit hour of 112 (184 ECTS)A minimum CGPA and MGPA of 2.00No Fx, F, NG, I grades in any course andCompliance with the regulation of the University."
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "Overview",
+            "Module Name": "OverviewTikur Anbessaveterinary",
+            "Course Code": "BackgroundICT ContactsOverviewOverviewServicesPublished BooksAAUP House StyleContacts",
+            "Course Name": "Overview",
+            "Module ECTS": "OverviewServicesPublished BooksAAUP House StyleContacts"
+        },
+        {
+            "Module Code": "Module 01",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Course Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "Communicative English Skills",
+            "Module Name": "EnLa1011",
+            "Course Code": "3",
+            "Course Name": "2",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "Basic Writing Skills",
+            "Module Name": "EnLa1012",
+            "Course Code": "3",
+            "Course Name": "2",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "Total ECTS in the Module",
+            "Module Name": "6",
+            "Course Code": "4",
+            "Course Name": "2",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Course Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "Civics & Ethics",
+            "Module Name": "CEst1023",
+            "Course Code": "3",
+            "Course Name": "3",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Total ECTS in the Module",
+            "Module Name": "3",
+            "Course Code": "3",
+            "Course Name": "0",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Module 03",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Course Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "Introduction to Logic",
+            "Module Name": "Phil1033",
+            "Course Code": "3",
+            "Course Name": "3",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Total ECTS in the Module",
+            "Module Name": "3",
+            "Course Code": "3",
+            "Course Name": "0",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Module 04",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Course Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "General Psychology",
+            "Module Name": "PYCH1051",
+            "Course Code": "3",
+            "Course Name": "2.75",
+            "Module ECTS": "0.25"
+        },
+        {
+            "Module Code": "Total ECTS in the Module",
+            "Module Name": "3",
+            "Course Code": "2.75",
+            "Course Name": "0.25",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "Introduction to Management",
+            "Module Name": "MGMT 1061",
+            "Course Code": "3",
+            "Course Name": "3",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Administrative & Business Communication",
+            "Module Name": "MGMT 1063",
+            "Course Code": "3",
+            "Course Name": "2",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "Total",
+            "Module Name": "6",
+            "Course Code": "7",
+            "Course Name": "1",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Course Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "Statistics for Management I",
+            "Module Name": "MGMT1071",
+            "Course Code": "3",
+            "Course Name": "3",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Statistics for Management II",
+            "Module Name": "MGMT2072",
+            "Course Code": "3",
+            "Course Name": "2.75",
+            "Module ECTS": "0.25"
+        },
+        {
+            "Module Code": "Total ECTS in the Module",
+            "Module Name": "6",
+            "Course Code": "5.75",
+            "Course Name": "0.25",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Course Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "Human Resource Management",
+            "Module Name": "MGMT1081",
+            "Course Code": "4",
+            "Course Name": "3.5",
+            "Module ECTS": "0.5"
+        },
+        {
+            "Module Code": "Organizational Behavior",
+            "Module Name": "MGMT2082",
+            "Course Code": "3",
+            "Course Name": "2.5",
+            "Module ECTS": "0.5"
+        },
+        {
+            "Module Code": "Leadership & Change Management",
+            "Module Name": "MGMT2083",
+            "Course Code": "2",
+            "Course Name": "2.5",
+            "Module ECTS": "0.5"
+        },
+        {
+            "Module Code": "Total ECTS in the Module",
+            "Module Name": "9",
+            "Course Code": "8.5",
+            "Course Name": "1.5",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Course Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "Management Information System",
+            "Module Name": "MGMT2091",
+            "Course Code": "3",
+            "Course Name": "2.5",
+            "Module ECTS": "0.5"
+        },
+        {
+            "Module Code": "System Analysis and Design",
+            "Module Name": "MGMT3092",
+            "Course Code": "3",
+            "Course Name": "2.75",
+            "Module ECTS": "0.25"
+        },
+        {
+            "Module Code": "Computer Applications in Management",
+            "Module Name": "MGMT 1091",
+            "Course Code": "3",
+            "Course Name": "0.5",
+            "Module ECTS": "1.5"
+        },
+        {
+            "Module Code": "Total ECTS in the Module",
+            "Module Name": "9",
+            "Course Code": "5.75",
+            "Course Name": "2.25",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Module 09",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Course Title",
+            "Course Code": "Course Code",
+            "Course Name": "Cr. Hrs.",
+            "Module ECTS": "L"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Business Law",
+            "Course Code": "MGMT3101",
+            "Course Name": "3",
+            "Module ECTS": "2.5"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "Total ECTS in the Module",
+            "Course Code": "3",
+            "Course Name": "2.5",
+            "Module ECTS": "0.5"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Course Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "Principles of Accounting I",
+            "Module Name": "ACFN1111",
+            "Course Code": "3",
+            "Course Name": "3",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Principles of Accounting II",
+            "Module Name": "ACFN2112",
+            "Course Code": "3",
+            "Course Name": "3",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Total ECTS in the Module",
+            "Module Name": "6",
+            "Course Code": "6",
+            "Course Name": "0",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Course Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "Principles of Marketing",
+            "Module Name": "MGMT2121",
+            "Course Code": "3",
+            "Course Name": "2.75",
+            "Module ECTS": "0.25"
+        },
+        {
+            "Module Code": "International Marketing",
+            "Module Name": "MGMT2122",
+            "Course Code": "3",
+            "Course Name": "2.75",
+            "Module ECTS": "0.25"
+        },
+        {
+            "Module Code": "Total ECTS in the Module",
+            "Module Name": "6",
+            "Course Code": "5.5",
+            "Course Name": "0.5",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Course Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "Mathematics for Management",
+            "Module Name": "MGMT2131",
+            "Course Code": "3",
+            "Course Name": "3",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Operations Research",
+            "Module Name": "MGMT3132",
+            "Course Code": "4",
+            "Course Name": "3.75",
+            "Module ECTS": "0.25"
+        },
+        {
+            "Module Code": "Total ECTS in the Module",
+            "Module Name": "7",
+            "Course Code": "6.75",
+            "Course Name": "0.25",
+            "Module ECTS": "1.5"
+        },
+        {
+            "Module Code": "Module 13",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Course Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "Cost and Management Accounting I",
+            "Module Name": "ACFN2141",
+            "Course Code": "3",
+            "Course Name": "3",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Cost and Management Accounting II",
+            "Module Name": "ACFN3142",
+            "Course Code": "3",
+            "Course Name": "3",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Total ECTS in the Module",
+            "Module Name": "6",
+            "Course Code": "6",
+            "Course Name": "0",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Course Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "Materials Management",
+            "Module Name": "MGMT3151",
+            "Course Code": "3",
+            "Course Name": "2.75",
+            "Module ECTS": "0.25"
+        },
+        {
+            "Module Code": "Operations Management",
+            "Module Name": "MGMT3152",
+            "Course Code": "4",
+            "Course Name": "3.5",
+            "Module ECTS": "0.5"
+        },
+        {
+            "Module Code": "Total ECTS in the Module",
+            "Module Name": "7",
+            "Course Code": "6.25",
+            "Course Name": "0.75",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Course Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "Microeconomics I",
+            "Module Name": "ECON1162",
+            "Course Code": "3",
+            "Course Name": "2",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Macroeconomics",
+            "Module Name": "ECON2161",
+            "Course Code": "3",
+            "Course Name": "2",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Total ECTS in the Module",
+            "Module Name": "6",
+            "Course Code": "4",
+            "Course Name": "0",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Course Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "Managerial Economics",
+            "Module Name": "MGMT2171",
+            "Course Code": "2",
+            "Course Name": "3",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Total ECTS in the Module",
+            "Module Name": "2",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Course Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "Financial Management",
+            "Module Name": "MGMT3181",
+            "Course Code": "3",
+            "Course Name": "3",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "3",
+            "Course Name": "0",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Management of Financial Institutions",
+            "Module Name": "MGMT3182",
+            "Course Code": "2",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Total ECTS in the Module",
+            "Module Name": "5",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Course Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "Entrepreneurship and Enterprise Development",
+            "Module Name": "MGMT3191",
+            "Course Code": "3",
+            "Course Name": "2.5",
+            "Module ECTS": "0.5"
+        },
+        {
+            "Module Code": "Project Management",
+            "Module Name": "MGMT3192",
+            "Course Code": "3",
+            "Course Name": "2",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "Risk Management and Insurance",
+            "Module Name": "MGMT3193",
+            "Course Code": "3",
+            "Course Name": "2.75",
+            "Module ECTS": "0.25"
+        },
+        {
+            "Module Code": "Total ECTS in the Module",
+            "Module Name": "9",
+            "Course Code": "7.25",
+            "Course Name": "1.75",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Course Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "Strategic Management",
+            "Module Name": "MGMT3201",
+            "Course Code": "3",
+            "Course Name": "2.5",
+            "Module ECTS": "0.5"
+        },
+        {
+            "Module Code": "Total ECTS in the Module",
+            "Module Name": "3",
+            "Course Code": "2.5",
+            "Course Name": "0.5",
+            "Module ECTS": "0"
+        },
+        {
+            "Module Code": "Course Title",
+            "Module Name": "Course Code",
+            "Course Code": "Cr. Hrs.",
+            "Course Name": "L",
+            "Module ECTS": "L/P"
+        },
+        {
+            "Module Code": "Business Research Methods",
+            "Module Name": "MGMT2211",
+            "Course Code": "3",
+            "Course Name": "0.5",
+            "Module ECTS": "2.5"
+        },
+        {
+            "Module Code": "Research in Management I",
+            "Module Name": "MGMT3212",
+            "Course Code": "1",
+            "Course Name": "0",
+            "Module ECTS": "0.5"
+        },
+        {
+            "Module Code": "Research in management II",
+            "Module Name": "MGMT3213",
+            "Course Code": "2",
+            "Course Name": "0.5",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Total ECTS in the Module",
+            "Module Name": "6",
+            "Course Code": "1",
+            "Course Name": "5",
+            "Module ECTS": "0"
+        }
+    ]
+}

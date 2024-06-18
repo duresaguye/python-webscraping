@@ -1,0 +1,226 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": "Program duration (in years): Five for regular and six for extension",
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": "Program Objective:to produce graduates with the following attributes:",
+        "Program Objective": null,
+        "Admission requirements": "Graduation requirements: students must take and pass all the required modules. The total required modules for graduation are 24, which amount to credit points of 304 ECTS including the 30 ECTS mandatory internship. The internship will have word grade: Excellent, Very good, Good, Satisfactory and Fail. In addition a student must score CGPA and MGPA of at least 2.0 and should not have a letter grade of “F” in any course taken, and at least satisfactory word grade for Internship. Further graduation requirements are as set by the Senate Legislation.",
+        "Graduation requirement": null
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "Overview",
+            "Module Name": "OverviewTikur Anbessaveterinary",
+            "Course Code": "BackgroundICT ContactsOverviewOverviewServicesPublished BooksAAUP House StyleContacts",
+            "Course Name": "Overview",
+            "Module ECTS": "OverviewServicesPublished BooksAAUP House StyleContacts"
+        },
+        {
+            "Module Code": "Category",
+            "Module Name": "ModuleNo.",
+            "Course Code": "Module Name",
+            "Course Name": "ModuleCode",
+            "Module ECTS": "ModuleECTS"
+        },
+        {
+            "Module Code": "3Basic",
+            "Module Name": "01",
+            "Course Code": "Basic English skills",
+            "Course Name": "EnLa-M1013",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "02",
+            "Module Name": "Civics and Ethics",
+            "Course Code": "CESt-M1023",
+            "Course Name": "5",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "03",
+            "Module Name": "Introduction to Logic",
+            "Course Code": "PHIL-M1033",
+            "Course Name": "5",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "04",
+            "Module Name": "Applied Engineering Mathematics",
+            "Course Code": "GEng-M1043",
+            "Course Name": "14",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "05",
+            "Module Name": "Engineering Mechanics",
+            "Course Code": "GEng-M1053",
+            "Course Name": "12",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "06",
+            "Module Name": "Basic Engineering Skills",
+            "Course Code": "GEng-M1063",
+            "Course Name": "8",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "1Core",
+            "Module Name": "07",
+            "Course Code": "Applied Chemistry",
+            "Course Name": "CBEg-M1071",
+            "Module ECTS": "11"
+        },
+        {
+            "Module Code": "08",
+            "Module Name": "Advanced Mathematics and Computational Methods",
+            "Course Code": "CBEg-M2081",
+            "Course Name": "20",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "09",
+            "Module Name": "Analytical Techniques",
+            "Course Code": "CBEg-M2091",
+            "Course Name": "6",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "10",
+            "Module Name": "Chemical Engineering Basics",
+            "Course Code": "CBEg-M2101",
+            "Course Name": "28",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "1Core",
+            "Module Name": "11",
+            "Course Code": "Fluid Machines in Chemical Engineering",
+            "Course Name": "CBEg-M2111",
+            "Module ECTS": "6"
+        },
+        {
+            "Module Code": "12",
+            "Module Name": "Practical and Reporting Skills",
+            "Course Code": "CBEg-M3121",
+            "Course Name": "7",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "13",
+            "Module Name": "Process Industries",
+            "Course Code": "CBEg-M3131",
+            "Course Name": "6",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "14",
+            "Module Name": "Transport Phenomena and Separation Process",
+            "Course Code": "CBEg-M3141",
+            "Course Name": "16",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "15",
+            "Module Name": "Chemical Reaction Engineering",
+            "Course Code": "CBEg-M3151",
+            "Course Name": "13",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "16",
+            "Module Name": "Process Control and Instrumentation",
+            "Course Code": "CBEg-M3161",
+            "Course Name": "13",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "17",
+            "Module Name": "Basic Environmental Engineering",
+            "Course Code": "CBEg-M3171",
+            "Course Name": "5",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "18",
+            "Module Name": "Internship",
+            "Course Code": "CBEg-M4181",
+            "Course Name": "30",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "19",
+            "Module Name": "Material Science and Engineering",
+            "Course Code": "CBEg-M4191",
+            "Course Name": "5",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "1Core",
+            "Module Name": "20",
+            "Course Code": "Biochemical Science and Engineering",
+            "Course Name": "CBEg-M4201",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "21",
+            "Module Name": "Chemical Engineering Design",
+            "Course Code": "CBEg-M4211",
+            "Course Name": "24",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "22",
+            "Module Name": "Industrial and Business Management",
+            "Course Code": "CBEg-M4221",
+            "Course Name": "15",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "23",
+            "Module Name": "Industrial Safety and Maintenance",
+            "Course Code": "CBEg-M5231",
+            "Course Name": "5",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "24",
+            "Module Name": "Senior Project",
+            "Course Code": "CBEg-M5241",
+            "Course Name": "15",
+            "Module ECTS": "1"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Category",
+            "Module Name": "Module No.",
+            "Course Code": "Module Title",
+            "Course Name": "ModuleCode",
+            "Module ECTS": "ModuleECTS"
+        },
+        {
+            "Module Code": "2Elective",
+            "Module Name": "25",
+            "Course Code": "Elective ( Process Engineering)",
+            "Course Name": "CBEg-M5252",
+            "Module ECTS": "15"
+        },
+        {
+            "Module Code": "2Elective",
+            "Module Name": "26",
+            "Course Code": "Elective (Environmental     Engineering)",
+            "Course Name": "CBEg-M5262",
+            "Module ECTS": "15"
+        }
+    ]
+}

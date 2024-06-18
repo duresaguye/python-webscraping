@@ -1,0 +1,310 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": "Program duration (in years): Six for regular",
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": "Program Objective– the General objective of the DVM curriculum is to promote quality education in veterinary medicine, perform research in the areas of animal health and produce and provide public and consultancy services of diverse nature.",
+        "Program Objective": "Specific objectives are to:",
+        "Admission requirements": "Natural science students who pass the Ethiopian Higher Education Entrance Certificate Examination and without major disabilities, which would hinder the individual’s ability to deliver his/her professional services, and assigned by the Ministry of Education are accepted.Advance standing (for diploma holders)Candidates who graduated from recognized academic institutions in Animal health, Animal production and related natural science fields andWho passed CoC examination andWho pass the entrance examination",
+        "Graduation requirement": "A minimum total credit point/ ECTS of 360A minimum CGPA and MGPA of 2.00No “F”, “I” and “NG” gradesWith a minimum of ‘C’ grades in practical courses (Vetm4181, Vetm4182, Vetm5241, Vetm5242, Vetm6261, Vetm6262, Vetm6263, Vetm6264, Vetm6267, Vetm6268 Vetm6271, Vetm6272)"
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "Overview",
+            "Module Name": "OverviewTikur Anbessaveterinary",
+            "Course Code": "BackgroundICT ContactsOverviewOverviewServicesPublished BooksAAUP House StyleContacts",
+            "Course Name": "Overview",
+            "Module ECTS": "OverviewServicesPublished BooksAAUP House StyleContacts"
+        },
+        {
+            "Module Code": "No",
+            "Module Name": "Course Code",
+            "Course Code": "Course Title",
+            "Course Name": "ECTS",
+            "Module ECTS": "Module Name"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "Vetm1031",
+            "Course Code": "Veterinary Embryology",
+            "Course Name": "3",
+            "Module ECTS": "Vet Anatomy & Embryology"
+        },
+        {
+            "Module Code": "6",
+            "Module Name": "Vetm1041",
+            "Course Code": "Veterinary Physiology I",
+            "Course Name": "5",
+            "Module ECTS": "Vet Physiology"
+        },
+        {
+            "Module Code": "8",
+            "Module Name": "Vetm2072",
+            "Course Code": "Veterinary Biochemistry I",
+            "Course Name": "5",
+            "Module ECTS": "Biochemistry & Molecular biology (Vetm-M2071)"
+        },
+        {
+            "Module Code": "10",
+            "Module Name": "Vetm2081",
+            "Course Code": "Veterinary Parasitology I",
+            "Course Name": "7",
+            "Module ECTS": "Animal Pathogens & Host Defense (Vetm-M2081)"
+        },
+        {
+            "Module Code": "14",
+            "Module Name": "Vetm3111",
+            "Course Code": "Veterinary General Pathology",
+            "Course Name": "7",
+            "Module ECTS": "Vet Pathology"
+        },
+        {
+            "Module Code": "17",
+            "Module Name": "Vetm3121",
+            "Course Code": "Veterinary Pharmacology & Therapeutics I",
+            "Course Name": "5",
+            "Module ECTS": "Vet Pharmacology & Toxicology"
+        },
+        {
+            "Module Code": "20",
+            "Module Name": "Vetm3131",
+            "Course Code": "Veterinary Clinical diagnosis",
+            "Course Name": "5",
+            "Module ECTS": "Vet General Medicine & Clinical Diagnosis (Vetm-M3131)"
+        },
+        {
+            "Module Code": "22",
+            "Module Name": "Vetm4141",
+            "Course Code": "Large Animal Medicine",
+            "Course Name": "7",
+            "Module ECTS": "Vet Clinical Medicine"
+        },
+        {
+            "Module Code": "28",
+            "Module Name": "Vetm4151",
+            "Course Code": "Veterinary General Surgery and Anesthesiology",
+            "Course Name": "5",
+            "Module ECTS": "Vet Surgery & Diagnostic Imaging (Vetm-M4151)"
+        },
+        {
+            "Module Code": "29",
+            "Module Name": "Vetm4152",
+            "Course Code": "Veterinary Operative Surgery",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "30",
+            "Module Name": "Vetm4153",
+            "Course Code": "Veterinary Diagnostic Imaging",
+            "Course Name": "3",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "31",
+            "Module Name": "Vetm4161",
+            "Course Code": "Theriogenology I",
+            "Course Name": "5",
+            "Module ECTS": "Theriogenology"
+        },
+        {
+            "Module Code": "32",
+            "Module Name": "Vetm4162",
+            "Course Code": "Theriogenology II",
+            "Course Name": "5",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "33",
+            "Module Name": "Vetm4171",
+            "Course Code": "Veterinary Public Health I",
+            "Course Name": "5",
+            "Module ECTS": "Vet Public Health"
+        },
+        {
+            "Module Code": "35",
+            "Module Name": "Vetm4181",
+            "Course Code": "Clinical Practice I",
+            "Course Name": "2",
+            "Module ECTS": "Basic Vet Clinical Practice (Vetm-M4181)"
+        },
+        {
+            "Module Code": "36",
+            "Module Name": "Vetm4182",
+            "Course Code": "Clinical Practice II",
+            "Course Name": "2",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "37",
+            "Module Name": "Vetm5191",
+            "Course Code": "Fisheries & Fish diseases",
+            "Course Name": "3",
+            "Module ECTS": "Fish & Honey bee production & Diseases (Vetm-M5191)"
+        },
+        {
+            "Module Code": "39",
+            "Module Name": "Vetm5201",
+            "Course Code": "Veterinary Ethics & Jurisprudence",
+            "Course Name": "3",
+            "Module ECTS": "Animal Welfare & Vet Ethics (Vetm-M5201)"
+        },
+        {
+            "Module Code": "41",
+            "Module Name": "Vetm5211",
+            "Course Code": "Veterinary Clinical Pathology I",
+            "Course Name": "5",
+            "Module ECTS": "Vet Clinical Pathology"
+        },
+        {
+            "Module Code": "43",
+            "Module Name": "Vetm5222",
+            "Course Code": "Biostatistics & Research Methodology",
+            "Course Name": "5",
+            "Module ECTS": "Research Methods"
+        },
+        {
+            "Module Code": "45",
+            "Module Name": "Vetm5232",
+            "Course Code": "Veterinary Epidemiology",
+            "Course Name": "5",
+            "Module ECTS": "Vet Epidemiology & Animal Health Economics"
+        },
+        {
+            "Module Code": "48",
+            "Module Name": "Vetm5241",
+            "Course Code": "Clinical Practice III",
+            "Course Name": "2",
+            "Module ECTS": "Advanced Vet Clinical Practice (Vetm-M5241)"
+        },
+        {
+            "Module Code": "50",
+            "Module Name": "Vetm5251",
+            "Course Code": "Animal Health Extension & Pastoralism",
+            "Course Name": "3",
+            "Module ECTS": "Animal Health extension & Business Mng’t (Vetm-M5254)"
+        },
+        {
+            "Module Code": "51",
+            "Module Name": "Vetm6261",
+            "Course Code": "Laboratory work experience I",
+            "Course Name": "6",
+            "Module ECTS": "Externship"
+        },
+        {
+            "Module Code": "59",
+            "Module Name": "Vetm6271",
+            "Course Code": "DVM thesis I",
+            "Course Name": "6",
+            "Module ECTS": "DVM Thesis"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "Subtotal",
+            "Course Name": "287",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "No",
+            "Module Name": "Course Code",
+            "Course Code": "Course Title",
+            "Course Name": "ECTS",
+            "Module ECTS": "Module name"
+        },
+        {
+            "Module Code": "61",
+            "Module Name": "Soci2032",
+            "Course Code": "Introduction to Sociology",
+            "Course Name": "4",
+            "Module ECTS": "Introduction to Sociology (Vetm-M1064)"
+        },
+        {
+            "Module Code": "62",
+            "Module Name": "Vetm2071",
+            "Course Code": "Organic Chemistry",
+            "Course Name": "5",
+            "Module ECTS": "Biochemistry & Molecular biology (Vetm-M2071)"
+        },
+        {
+            "Module Code": "64",
+            "Module Name": "AnPS2091",
+            "Course Code": "Principles of Animal Genetics & Breeding",
+            "Course Name": "4",
+            "Module ECTS": "Animal Genetics & Nutrition (Vetm-M2094)"
+        },
+        {
+            "Module Code": "66",
+            "Module Name": "AnPS3101",
+            "Course Code": "Poultry & Swine Production",
+            "Course Name": "4",
+            "Module ECTS": "Animal production & Management"
+        },
+        {
+            "Module Code": "72",
+            "Module Name": "Vetm-M5221",
+            "Course Code": "Introduction to Statistics",
+            "Course Name": "5",
+            "Module ECTS": "Research Methods"
+        },
+        {
+            "Module Code": "73",
+            "Module Name": "Vetm-M5231",
+            "Course Code": "Ethiopian Geography and Introduction to GIS",
+            "Course Name": "4",
+            "Module ECTS": "Veterinary Epidemiology & Animal Health Economics (Vetm-M5231)"
+        },
+        {
+            "Module Code": "74",
+            "Module Name": "Vetm-M5251",
+            "Course Code": "Entrepreneurship & Small Business Management",
+            "Course Name": "3",
+            "Module ECTS": "Animal Health Extension and Business Mang’t (Vetm-M5254)"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "Subtotal",
+            "Course Name": "53",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "No.",
+            "Module Name": "Course code",
+            "Course Code": "Course Title",
+            "Course Name": "ECTS",
+            "Module ECTS": "Module name"
+        },
+        {
+            "Module Code": "75",
+            "Module Name": "EnLa1011",
+            "Course Code": "Communicative English",
+            "Course Name": "5",
+            "Module ECTS": "Basic English skills (EnLa-M1013)"
+        },
+        {
+            "Module Code": "77",
+            "Module Name": "CoSc1201",
+            "Course Code": "Introduction to Information and Communication Technologies (Introduction to ICT)",
+            "Course Name": "5",
+            "Module ECTS": "Basics of Information System (Vetm-M1054)"
+        },
+        {
+            "Module Code": "78",
+            "Module Name": "CESt1023",
+            "Course Code": "Civics & Ethics",
+            "Course Name": "5",
+            "Module ECTS": "Civics and Ethics (CESt-M1023)"
+        },
+        {
+            "Module Code": "",
+            "Module Name": "",
+            "Course Code": "Subtotal",
+            "Course Name": "20",
+            "Module ECTS": ""
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": "Program duration (in years): Five for regular and Five for extension",
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": "Program Objective– the Objective of this B.Sc. program is to produce outstanding construction technology and management graduates who have been prepared to become technological, managerial and public service leaders capable of understanding the social and environmental challenges that face the country, and who will be in a position to make a meaningful contribution to both national social and economic growth and development as well as being able to respond to, and benefit from, the impact of global change. The department and the staff are committed to creating a learning environment that provides a level of knowledge and competency in these areas, through an innovative program of study, supported by a capability in information technology use, coupled with a capacity to integrate the key social and environmental issues facing the country. This program is aimed primarily at training managing engineers required for managing constructing projects with efficient and effective management system, Administer contracts, Conduct researches to identify real problems on site pertaining to construction management, methods & materials, and find better solutions",
+        "Program Objective": "Admission requirements– admissions to all regular undergraduate programs are processed through the Ministry of Education (MoE) of the Federal Democratic Republic of Ethiopia. This is currently true for all public Higher Education Institutes across the whole nation. Admissions to the continuing education program are processed through the registrar office based on the criteria set by respective University.",
+        "Admission requirements": "Admission to RegularProgram – students who have successfully completed the 10 plus 2 preparatory education and have secured a minimum cut-off point with high scores in Physics and Mathematics are eligible to join the regular undergraduate BSc degree program of Construction Technology and Management. Depending on available spaces, diploma graduates from TVET (Technical Vocational Education and Training) in the fields of construction technology will be admitted based on grades on competitive basis. Applicants with a minimum cut-off point and with high scores in Physics and Mathematics in foreign countries examinations equivalent to the 10+2 preparatory program are also eligible. The equivalence is determined by the department.",
+        "Graduation requirement": "List of Modules and courses"
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "Overview",
+            "Module Name": "OverviewTikur Anbessaveterinary",
+            "Course Code": "BackgroundICT ContactsOverviewOverviewServicesPublished BooksAAUP House StyleContacts",
+            "Course Name": "Overview",
+            "Module ECTS": "OverviewServicesPublished BooksAAUP House StyleContacts"
+        },
+        {
+            "Module Code": "Module Name",
+            "Module Name": "Module Code",
+            "Course Code": "Course Name",
+            "Course Name": "Course Code",
+            "Module ECTS": "ModuleECTS"
+        },
+        {
+            "Module Code": "Basic English Skills",
+            "Module Name": "EnLa-M1013",
+            "Course Code": "Communication skills",
+            "Course Name": "Enla1011",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Civics & Ethics",
+            "Module Name": "CESt-M1023",
+            "Course Code": "Civics & Ethics",
+            "Course Name": "CESt1023",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Introduction to Logic",
+            "Module Name": "Phil-M1033",
+            "Course Code": "Introduction to Logic",
+            "Course Name": "Phil1033",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "Engineering Mechanics",
+            "Module Name": "CoTM-M1034",
+            "Course Code": "Engineering mechanics I",
+            "Course Name": "CoTM1031",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Applied Engineering Mathematics",
+            "Module Name": "CoTM-M1044",
+            "Course Code": "Applied mathematics I",
+            "Course Name": "Math1041",
+            "Module ECTS": "6"
+        },
+        {
+            "Module Code": "Basic Engineering Skill",
+            "Module Name": "CoTM-M1054",
+            "Course Code": "Introduction to Engineering Profession",
+            "Course Name": "CoTM1051",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "Construction Materials",
+            "Module Name": "CoTM-M1061",
+            "Course Code": "Construction Materials I",
+            "Course Name": "CoTM1061",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Building Construction",
+            "Module Name": "CoTM-M2071",
+            "Course Code": "Building construction I",
+            "Course Name": "CoTM2071",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Drafting and Construction Working Drawing",
+            "Module Name": "CoTM-M1081",
+            "Course Code": "Construction drafting",
+            "Course Name": "CoTM1081",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Architectural planning and design",
+            "Module Name": "CoTM-M3093",
+            "Course Code": "Architectural planning and design",
+            "Course Name": "CoTM3093",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Structural Engineering – I",
+            "Module Name": "CoTM-M1101",
+            "Course Code": "Strength of materials",
+            "Course Name": "CoTM1101",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Structural Engineering – II",
+            "Module Name": "CoTM-M2111",
+            "Course Code": "Design of Reinforced Concrete Structures",
+            "Course Name": "CoTM2111",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Business & Economics",
+            "Module Name": "CoTM-M2123",
+            "Course Code": "Introduction to Management",
+            "Course Name": "COTM2121",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Water Engineering – I",
+            "Module Name": "CoTM-M2131",
+            "Course Code": "Hydraulics",
+            "Course Name": "CoTM2131",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Water   Engineering – II",
+            "Module Name": "CoTM-M3141",
+            "Course Code": "Sewage Disposal and Treatment",
+            "Course Name": "CoTM3141",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Principles of construction management",
+            "Module Name": "CoTM-M2151",
+            "Course Code": "Principles of construction management",
+            "Course Name": "CoTM2151",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Resource Management In Construction",
+            "Module Name": "CoTM-M3161",
+            "Course Code": "Human resource Management in Construction",
+            "Course Name": "CoTM3161",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "Soil Mechanics & Foundation Engineering",
+            "Module Name": "CoTM-M2171",
+            "Course Code": "Soil Mechanics",
+            "Course Name": "CoTM2171",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Surveying",
+            "Module Name": "CoTM-M3181",
+            "Course Code": "Surveying",
+            "Course Name": "CoTM3181",
+            "Module ECTS": "6"
+        },
+        {
+            "Module Code": "Transport Design & Construction",
+            "Module Name": "CoTM-M3191",
+            "Course Code": "Highway Engineering I",
+            "Course Name": "CoTM3191",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Construction Estimating & Costing",
+            "Module Name": "CoTM-M3201",
+            "Course Code": "Construction Specification and Quantity Surveying",
+            "Course Name": "CoTM3201",
+            "Module ECTS": "6"
+        },
+        {
+            "Module Code": "Construction Planning",
+            "Module Name": "CoTM-M3211",
+            "Course Code": "Construction Planning and Scheduling",
+            "Course Name": "CoTM3211",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Construction Site Management",
+            "Module Name": "CoTM-M3221",
+            "Course Code": "Construction site supervision",
+            "Course Name": "CoTM3221",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "Procurement and Construction law",
+            "Module Name": "CoTM-M4231",
+            "Course Code": "Construction law",
+            "Course Name": "CoTM4232",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Research Methodology",
+            "Module Name": "CoTM-M4243",
+            "Course Code": "Technical Report Writing & Research Method",
+            "Course Name": "CoTM5241",
+            "Module ECTS": "3"
+        },
+        {
+            "Module Code": "Internship",
+            "Module Name": "CoTM-M4251",
+            "Course Code": "Internship",
+            "Course Name": "CoTM4251",
+            "Module ECTS": "30"
+        },
+        {
+            "Module Code": "Development   & Entrepreneurship",
+            "Module Name": "CoTM-M5261",
+            "Course Code": "Development and Construction Economics",
+            "Course Name": "CoTM5261",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "Appropriate Construction Technology",
+            "Module Name": "CoTM-M5271",
+            "Course Code": "Cost efficient Construction",
+            "Course Name": "CoTM5271",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "Elective",
+            "Module Name": "CoTM-M5282",
+            "Course Code": "Concrete Technology",
+            "Course Name": "CoTM5282",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "Project",
+            "Module Name": "CoTM-M5291",
+            "Course Code": "Holistic Project",
+            "Course Name": "CoTM5291",
+            "Module ECTS": "6"
+        }
+    ]
+}

@@ -1,0 +1,387 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": "Program duration (in years): Five for regular and six for extension",
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": "Program Objective:the objective of Mechanical Engineering Education is to educate trainable, broad based mechanical engineers that can fit in the different application areas of mechanical engineering after given on job training for about a year.Admission requirements:Regular students who fulfill the following criteria are eligible for admission to the program:Preparatory complete with a pass in the national examinationAbove average grades in Technical Drawing, Physics and MathematicsGood performance in the assessment semester.Students who complete 10+3 TVET programs related to mechanical engineering with very good performance and who have attended a bridging program in physical sciences can also be considered for admission, although their acceptance will depend on availability of space.Graduation requirement:Total ECTS/Credit = 326/179CGPA and MGPA at least 2.00No “F”, “D”, or “C–“ gradesOther requirements are as same as those of Addis Ababa University graduation requirements.List of modules and coursesCategoryModule No.Module nameModule codeModule ECTSCourse codeModule courses (clustered under the module)ECTS301Basic English SkillsEnLa-M101310EnLa1011Communicative English Skills5EnLa1012Basic Writing Skills5302Civics and Ethical EducationCESt-M10235CESt1021Civics and Ethical Education5303Introduction to LogicPHIL-M10335PHIL1033Introduction to Logic3304Basic Eng’g MathematicsGEng-M104314Math1041Applied Mathematics I7Math1042Applied Mathematics II7305Basic Engineering MechanicsGEng-M105312CEng1051Engineering Mechanics I-Statics6MEng1052Engineering Mechanics II-Dynamics6306Basic Engineering SkillsGEng-M10638GEng1061Introduction to Engineering Profession2MEng1062Engineering Drawing6107Advanced Eng’g Mathematics and ComputationsMEng_M207115Maths2071Applied Mathematics III7MEng2072Probability and Statistics for Engineers3MEng2073Numerical Methods5308Introduction to EconomicsEcon_M10835Econ3081Introduction to Economics5309Computing and ProgrammingMEng_M20935MEng2091Computer Computing and Programming5110Machine DrawingMEng_M210110MEng2101Machine Drawing I5MEng2102Machine Drawing II with CAD5111Mechanics of MaterialsMEng_M211110MEng1111Strength of Materials I5MEng2112Strength of Materials II5112Engineering MaterialsMEng_M212110MEng2121Engineering Materials I5MEng2122Engineering Materials II5113Eng’g Thermo-FluidsMEng_M213115MEng2131Engineering Thermodynamics I5MEng2132Engineering Thermodynamics II5MEng2133Fluid Mechanics5114General Workshop PracticeMEng_M31416MEng3141Workshop Practice – I3MEng3142Workshop Practice – II3115Machine ElementsMEng_M315110MEng2151Machine Elements I5MEng3152Machine Elements II5116Advanced Eng’g MechanicsMEng_M316110MEng3161Mechanisms of Machinery5MEng3162Mechanical Vibration5117Heat TransferMEng_M31715MEng3171Heat Transfer5118Integrated Machine Design ProjectMEng_M418110MEng3181Machine Design Project I5MEng4182Machine Design Project II5119Manufacturing EngineeringMEng_M319110MEng3191Manufacturing Engineering I5MEng3192Manufacturing Engineering II5320Electrical EngineeringECEng_M320310ECEng3201Basic Electricity and Electronics5ECEng3202Electrical Machines and Drives5121Control EngineeringMEng_M421115MEng3211Instrumentation and Measurement5MEng4212Introduction to Mechatronics5MEng4213Regulation and Control5122Energy Conversion MachinesMEng_M422110MEng3221Turbomachinery6MEng4222IC Engines & Reciprocating Machines4123Research MethodologyMEng_M32335MEng3231Technical Writing and Research Methodology5124Materials Handling EquipmentMEng_M42415MEng4241Materials Handling Equipment5125Maintenance of MachineryMEng_M42515MEng4251Maintenance of Machinery5126Industrial InternshipMEng_M426130MEng4261Industrial Internship30127Fluid Power SystemMEng_M52715MEng5271Pneumatics and Hydraulics5128Introduction to Finite Element MethodsMEng_M52814MEng5281Introduction to FEM4129Thermal Systems EngineeringMEng_M529110MEng5291Power Plant Engineering5MEng5292Refrigeration and Air Conditioning5130Industrial Management and EntrepreneurshipMEng_M530110MEng5301Entrepreneurship5MEng5302Industrial Management and Engineering Economy5131MetrologyMEng_M53115MEng5311Metrology Lab Exercise5132Quality ManagementMEng_M53215MEng5321Quality Management5233Mechanical Design Electives IMEng_M53325MEng4331Introduction to Tribology5234Mechanical Design Electives IIMEng_M534210MEng5341Product Design Development5MEng5342Agricultural Machinery Design5235Mechanical Design Electives IIIMEng_M53525MEng5352Introduction to Engineering System5236Thermal Eng’g Elective IMEng_M43625MEng4361Fluid Mechanics II-Aerodynamics5237Thermal Eng’g Elective IIMEng_M537210MEng5371Design of Renewable Energy System5MEng5372Thermo-fluid System Design5238Thermal Eng’g Elective IIIMEng_M53825MEng5381Gas Turbine and Jet Propulsion5239Manufacturing Eng’g Elective IMEng_M43925MEng4391Plant Layout and Design5240Manufacturing Eng’g Elective IIMEng_M540210MEng5401Design of Manufacturing Tools and Dies5MEng5402Computer Integrated Manufacturing5241Manufacturing Eng’g Elective IIIMEng_M54125MEng5411Process Planning and Product Costing5242Industrial Eng’g Elective IMEng_M54225MEng4421Plant Layout and Design5243Industrial Eng’g Electives IIMEng_M543210MEng5431Operation Planning and Control5MEng5432Operations Research5244Industrial Eng’g Electives IIIMEng_M54425MEng5441Supply Chain Management and Logistics5245Motor Vehicle Eng’g Elective IMEng_M44525MEng4451Fluid Mechanics II-Aerodynamics5246Motor Vehicle Eng’g Elective IIMEng_M546210MEng5461Heavy Duty and Construction Equipment5MEng5462Motor Vehicle Engineering5247Motor Vehicle Eng’g Elective IIIMEng_M54725MEng5471Automotive Maintenance5248Railway Eng’g Electives IMEng_M54825MEng4481Fundamentals of Railway Systems Engineering5249Railway Eng’g Electives IIMEng_M549210MEng5491Rail Motive Power Design5MEng5492Rail Vehicle Design5250Railway Eng’g Electives IIIMEng_M55025MEng5501Rail-Vehicle Dynamics5251Bachelor ThesisMEng_M551112MEng5511B.Sc. Thesis12",
+        "Program Objective": null,
+        "Admission requirements": "Regular students who fulfill the following criteria are eligible for admission to the program:",
+        "Graduation requirement": "Total ECTS/Credit = 326/179CGPA and MGPA at least 2.00No “F”, “D”, or “C–“ gradesOther requirements are as same as those of Addis Ababa University graduation requirements."
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "Overview",
+            "Module Name": "OverviewTikur Anbessaveterinary",
+            "Course Code": "BackgroundICT ContactsOverviewOverviewServicesPublished BooksAAUP House StyleContacts",
+            "Course Name": "Overview",
+            "Module ECTS": "OverviewServicesPublished BooksAAUP House StyleContacts"
+        },
+        {
+            "Module Code": "Category",
+            "Module Name": "Module No.",
+            "Course Code": "Module name",
+            "Course Name": "Module code",
+            "Module ECTS": "Module ECTS"
+        },
+        {
+            "Module Code": "3",
+            "Module Name": "01",
+            "Course Code": "Basic English Skills",
+            "Course Name": "EnLa-M1013",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "3",
+            "Module Name": "02",
+            "Course Code": "Civics and Ethical Education",
+            "Course Name": "CESt-M1023",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "3",
+            "Module Name": "03",
+            "Course Code": "Introduction to Logic",
+            "Course Name": "PHIL-M1033",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "3",
+            "Module Name": "04",
+            "Course Code": "Basic Eng’g Mathematics",
+            "Course Name": "GEng-M1043",
+            "Module ECTS": "14"
+        },
+        {
+            "Module Code": "3",
+            "Module Name": "05",
+            "Course Code": "Basic Engineering Mechanics",
+            "Course Name": "GEng-M1053",
+            "Module ECTS": "12"
+        },
+        {
+            "Module Code": "3",
+            "Module Name": "06",
+            "Course Code": "Basic Engineering Skills",
+            "Course Name": "GEng-M1063",
+            "Module ECTS": "8"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "07",
+            "Course Code": "Advanced Eng’g Mathematics and Computations",
+            "Course Name": "MEng_M2071",
+            "Module ECTS": "15"
+        },
+        {
+            "Module Code": "3",
+            "Module Name": "08",
+            "Course Code": "Introduction to Economics",
+            "Course Name": "Econ_M1083",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "3",
+            "Module Name": "09",
+            "Course Code": "Computing and Programming",
+            "Course Name": "MEng_M2093",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "10",
+            "Course Code": "Machine Drawing",
+            "Course Name": "MEng_M2101",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "11",
+            "Course Code": "Mechanics of Materials",
+            "Course Name": "MEng_M2111",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "12",
+            "Course Code": "Engineering Materials",
+            "Course Name": "MEng_M2121",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "13",
+            "Course Code": "Eng’g Thermo-Fluids",
+            "Course Name": "MEng_M2131",
+            "Module ECTS": "15"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "14",
+            "Course Code": "General Workshop Practice",
+            "Course Name": "MEng_M3141",
+            "Module ECTS": "6"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "15",
+            "Course Code": "Machine Elements",
+            "Course Name": "MEng_M3151",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "16",
+            "Course Code": "Advanced Eng’g Mechanics",
+            "Course Name": "MEng_M3161",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "17",
+            "Course Code": "Heat Transfer",
+            "Course Name": "MEng_M3171",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "18",
+            "Course Code": "Integrated Machine Design Project",
+            "Course Name": "MEng_M4181",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "19",
+            "Course Code": "Manufacturing Engineering",
+            "Course Name": "MEng_M3191",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "3",
+            "Module Name": "20",
+            "Course Code": "Electrical Engineering",
+            "Course Name": "ECEng_M3203",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "21",
+            "Course Code": "Control Engineering",
+            "Course Name": "MEng_M4211",
+            "Module ECTS": "15"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "22",
+            "Course Code": "Energy Conversion Machines",
+            "Course Name": "MEng_M4221",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "23",
+            "Course Code": "Research Methodology",
+            "Course Name": "MEng_M3233",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "24",
+            "Course Code": "Materials Handling Equipment",
+            "Course Name": "MEng_M4241",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "25",
+            "Course Code": "Maintenance of Machinery",
+            "Course Name": "MEng_M4251",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "26",
+            "Course Code": "Industrial Internship",
+            "Course Name": "MEng_M4261",
+            "Module ECTS": "30"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "27",
+            "Course Code": "Fluid Power System",
+            "Course Name": "MEng_M5271",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "28",
+            "Course Code": "Introduction to Finite Element Methods",
+            "Course Name": "MEng_M5281",
+            "Module ECTS": "4"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "29",
+            "Course Code": "Thermal Systems Engineering",
+            "Course Name": "MEng_M5291",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "30",
+            "Course Code": "Industrial Management and Entrepreneurship",
+            "Course Name": "MEng_M5301",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "31",
+            "Course Code": "Metrology",
+            "Course Name": "MEng_M5311",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "32",
+            "Course Code": "Quality Management",
+            "Course Name": "MEng_M5321",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "33",
+            "Course Code": "Mechanical Design Electives I",
+            "Course Name": "MEng_M5332",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "34",
+            "Course Code": "Mechanical Design Electives II",
+            "Course Name": "MEng_M5342",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "35",
+            "Course Code": "Mechanical Design Electives III",
+            "Course Name": "MEng_M5352",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "36",
+            "Course Code": "Thermal Eng’g Elective I",
+            "Course Name": "MEng_M4362",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "37",
+            "Course Code": "Thermal Eng’g Elective II",
+            "Course Name": "MEng_M5372",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "38",
+            "Course Code": "Thermal Eng’g Elective III",
+            "Course Name": "MEng_M5382",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "39",
+            "Course Code": "Manufacturing Eng’g Elective I",
+            "Course Name": "MEng_M4392",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "40",
+            "Course Code": "Manufacturing Eng’g Elective II",
+            "Course Name": "MEng_M5402",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "41",
+            "Course Code": "Manufacturing Eng’g Elective III",
+            "Course Name": "MEng_M5412",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "42",
+            "Course Code": "Industrial Eng’g Elective I",
+            "Course Name": "MEng_M5422",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "43",
+            "Course Code": "Industrial Eng’g Electives II",
+            "Course Name": "MEng_M5432",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "44",
+            "Course Code": "Industrial Eng’g Electives III",
+            "Course Name": "MEng_M5442",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "45",
+            "Course Code": "Motor Vehicle Eng’g Elective I",
+            "Course Name": "MEng_M4452",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "46",
+            "Course Code": "Motor Vehicle Eng’g Elective II",
+            "Course Name": "MEng_M5462",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "47",
+            "Course Code": "Motor Vehicle Eng’g Elective III",
+            "Course Name": "MEng_M5472",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "48",
+            "Course Code": "Railway Eng’g Electives I",
+            "Course Name": "MEng_M5482",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "49",
+            "Course Code": "Railway Eng’g Electives II",
+            "Course Name": "MEng_M5492",
+            "Module ECTS": "10"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "50",
+            "Course Code": "Railway Eng’g Electives III",
+            "Course Name": "MEng_M5502",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "51",
+            "Course Code": "Bachelor Thesis",
+            "Course Name": "MEng_M5511",
+            "Module ECTS": "12"
+        }
+    ]
+}

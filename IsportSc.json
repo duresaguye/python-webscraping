@@ -1,0 +1,282 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": "Program duration (in years):  Three for regular and six for summer",
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": "Program Objective:",
+        "Program Objective": null,
+        "Admission requirements": "Successful completion of the preparatory program or equivalent qualification;Pass TVET level 3-5 competency assessment: have a 2 years relevantindustry experience, and pass in the national higher education entranceexaminationPhysically and mentally healthyPass the entrance skill & physical performance test set by the department.",
+        "Graduation requirement": "Will have to take a minimum of 110 credit hours OR 183 ECTS;Will have a minimum CGPA and MGPA of 2.00 at the time of graduation;With no “F“ grade in any course."
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "Overview",
+            "Module Name": "OverviewTikur Anbessaveterinary",
+            "Course Code": "BackgroundICT ContactsOverviewOverviewServicesPublished BooksAAUP House StyleContacts",
+            "Course Name": "Overview",
+            "Module ECTS": "OverviewServicesPublished BooksAAUP House StyleContacts"
+        },
+        {
+            "Module Code": "Module code",
+            "Module Name": "Module",
+            "Course Code": "ECTS",
+            "Course Name": "MODULE TITLE",
+            "Module ECTS": "Course code"
+        },
+        {
+            "Module Code": "SpSc-M2011",
+            "Module Name": "Developmental & Psychological aspects of Sport 01",
+            "Course Code": "16",
+            "Course Name": "History & Concept of Sports & Physical Education",
+            "Module ECTS": "SpSc2011"
+        },
+        {
+            "Module Code": "SpSc-M2021",
+            "Module Name": "Athletics – 02",
+            "Course Code": "8",
+            "Course Name": "1.Athletics I",
+            "Module ECTS": "SpSc2021"
+        },
+        {
+            "Module Code": "SpSc-M3031",
+            "Module Name": "Exercise Sciences – 03",
+            "Course Code": "15",
+            "Course Name": "1.Exercise Physiology",
+            "Module ECTS": "SpSc3031"
+        },
+        {
+            "Module Code": "SpSc-M3041",
+            "Module Name": "Gymnastic – 04",
+            "Course Code": "8",
+            "Course Name": "1.Basic gymnastic",
+            "Module ECTS": "SpSc3041"
+        },
+        {
+            "Module Code": "SpSc-M4051",
+            "Module Name": "Therapeutic Science  in sport – 05",
+            "Course Code": "20",
+            "Course Name": "Sport Nutrition",
+            "Module ECTS": "SpSc4051"
+        },
+        {
+            "Module Code": "SpSc-M3061",
+            "Module Name": "Ball Games – 06",
+            "Course Code": "28",
+            "Course Name": "1.Football",
+            "Module ECTS": "SpSc3061"
+        },
+        {
+            "Module Code": "SpSc-M3071",
+            "Module Name": "Racquet  Sport  – 07",
+            "Course Code": "5",
+            "Course Name": "Table tennis, Ground tennis & Badminton",
+            "Module ECTS": "SpSc3071"
+        },
+        {
+            "Module Code": "SpSc-M4081",
+            "Module Name": "Swimming & Recreational  – 08",
+            "Course Code": "5",
+            "Course Name": "Swimming & Recreational  Activities",
+            "Module ECTS": "SpSc4081"
+        },
+        {
+            "Module Code": "SpSc-M4091",
+            "Module Name": "Administration & Coaching in Sports – 09",
+            "Course Code": "20",
+            "Course Name": "1.Introduction to  structure of coaching",
+            "Module ECTS": "SpSc4091"
+        },
+        {
+            "Module Code": "SpSc-M4101",
+            "Module Name": "Research in Sport – 10",
+            "Course Code": "13",
+            "Course Name": "1.research method & Report Writing in Sport",
+            "Module ECTS": "SpSc4101"
+        },
+        {
+            "Module Code": "No",
+            "Module Name": "Module code",
+            "Course Code": "Module Title",
+            "Course Name": "ECTS",
+            "Module ECTS": "Course title"
+        },
+        {
+            "Module Code": "1",
+            "Module Name": "SpSc-M4093",
+            "Course Code": "Athletics Coaching",
+            "Course Name": "8",
+            "Module ECTS": "Athletics Coaching"
+        },
+        {
+            "Module Code": "2",
+            "Module Name": "SpSc-M4095",
+            "Course Code": "Football Coaching",
+            "Course Name": "8",
+            "Module ECTS": "Football coaching"
+        },
+        {
+            "Module Code": "3",
+            "Module Name": "SpSc-M4097",
+            "Course Code": "Volleyball  coaching",
+            "Course Name": "8",
+            "Module ECTS": "Volleyball  coaching"
+        },
+        {
+            "Module Code": "4",
+            "Module Name": "SpSc-M4099",
+            "Course Code": "Basketball coaching",
+            "Course Name": "8",
+            "Module ECTS": "Basketball coaching"
+        },
+        {
+            "Module Code": "5",
+            "Module Name": "SpSc-M4103",
+            "Course Code": "Handball  coaching",
+            "Course Name": "8",
+            "Module ECTS": "Handball  coaching"
+        },
+        {
+            "Module Code": "6",
+            "Module Name": "SpSc-M4105",
+            "Course Code": "Badminton  coaching",
+            "Course Name": "8",
+            "Module ECTS": "Badminton  coaching"
+        },
+        {
+            "Module Code": "7",
+            "Module Name": "SpSc-M4107",
+            "Course Code": "Table tennis  coaching",
+            "Course Name": "8",
+            "Module ECTS": "Table tennis  coaching"
+        },
+        {
+            "Module Code": "8",
+            "Module Name": "SpSc-M4109",
+            "Course Code": "Ground tennis coaching",
+            "Course Name": "8",
+            "Module ECTS": "Ground tennis coaching"
+        },
+        {
+            "Module Code": "9",
+            "Module Name": "SpSc-M4111",
+            "Course Code": "Bicycle coaching",
+            "Course Name": "8",
+            "Module ECTS": "Bicycle coaching"
+        },
+        {
+            "Module Code": "10",
+            "Module Name": "SpSc-M4113",
+            "Course Code": "Boxing  coaching",
+            "Course Name": "8",
+            "Module ECTS": "Boxing  coaching"
+        },
+        {
+            "Module Code": "11",
+            "Module Name": "SpSc-M4115",
+            "Course Code": "Paralympics coaching",
+            "Course Name": "8",
+            "Module ECTS": "Paralympics coaching"
+        },
+        {
+            "Module Code": "12",
+            "Module Name": "SpSc-M4117",
+            "Course Code": "Gymnastics coaching",
+            "Course Name": "8",
+            "Module ECTS": "Gymnastics coaching"
+        },
+        {
+            "Module Code": "13",
+            "Module Name": "SpSc-M4119",
+            "Course Code": "World taekwondo  coaching",
+            "Course Name": "8",
+            "Module ECTS": "World taekwondo  coaching"
+        },
+        {
+            "Module Code": "14",
+            "Module Name": "SpSc-M4121",
+            "Course Code": "Fitness instruction",
+            "Course Name": "8",
+            "Module ECTS": "Fitness instruction"
+        },
+        {
+            "Module Code": "8",
+            "Module Name": "Practice in fitness instruction",
+            "Course Code": "SpSc4122",
+            "Course Name": "3",
+            "Module ECTS": "5"
+        },
+        {
+            "Module Code": "15",
+            "Module Name": "SpSc-M4123",
+            "Course Code": "Swimming coaching",
+            "Course Name": "8",
+            "Module ECTS": "Swimming coaching"
+        },
+        {
+            "Module Code": "MODULE CODE",
+            "Module Name": "Module",
+            "Course Code": "ECTS",
+            "Course Name": "MODULE TITLE",
+            "Module ECTS": "COURSE Code"
+        },
+        {
+            "Module Code": "EnLa-M1013",
+            "Module Name": "Basic English Skills",
+            "Course Code": "10",
+            "Course Name": "Communicative English  Skills",
+            "Module ECTS": "EnLa1011"
+        },
+        {
+            "Module Code": "CESt-M1023",
+            "Module Name": "Civics & Ethics",
+            "Course Code": "5",
+            "Course Name": "Civics & Ethics",
+            "Module ECTS": "CESt1023"
+        },
+        {
+            "Module Code": "CoSc-M1203",
+            "Module Name": "Computer Application",
+            "Course Code": "5",
+            "Course Name": "Introduction to computer application",
+            "Module ECTS": "CoSc1201"
+        },
+        {
+            "Module Code": "Stat-M2163",
+            "Module Name": "Introductory statistics",
+            "Course Code": "5",
+            "Course Name": "Introductory Statistics",
+            "Module ECTS": "Stat2161"
+        },
+        {
+            "Module Code": "MODULE CODE",
+            "Module Name": "Module",
+            "Course Code": "ECTS",
+            "Course Name": "MODULE TITLE",
+            "Module ECTS": "COURSE Code"
+        },
+        {
+            "Module Code": "SpSc-M2223",
+            "Module Name": "Human Biology",
+            "Course Code": "10",
+            "Course Name": "Human Anatomy",
+            "Module ECTS": "SpSc 2222"
+        },
+        {
+            "Module Code": "PSYC-M2013",
+            "Module Name": "General psychology",
+            "Course Code": "5",
+            "Course Name": "Introduction to psychology",
+            "Module ECTS": "Psyc2011"
+        },
+        {
+            "Module Code": "Biol-M3071",
+            "Module Name": "Molecular Biology and Biotechnology",
+            "Course Code": "5",
+            "Course Name": "Biochemistry",
+            "Module ECTS": "Biol3071"
+        }
+    ]
+}

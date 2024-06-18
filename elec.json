@@ -1,0 +1,338 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": "Program duration (in years): Five for regular and six for extension",
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": "Program Objective:",
+        "Program Objective": null,
+        "Admission requirements": "Graduation requirement:",
+        "Graduation requirement": "Complete 320 ECTS course work;An overall cumulative grade point average (CGPA) of 2.0 must be obtained;A cumulative grade point average (CGPA) of 2.0 must be obtained in biomedical engineering courses;Conduct an independent research work (Project and B.Sc. Thesis) as partial fulfillment for the degree."
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "Overview",
+            "Module Name": "OverviewTikur Anbessaveterinary",
+            "Course Code": "BackgroundICT ContactsOverviewOverviewServicesPublished BooksAAUP House StyleContacts",
+            "Course Name": "Overview",
+            "Module ECTS": "OverviewServicesPublished BooksAAUP House StyleContacts"
+        },
+        {
+            "Module Code": "Category",
+            "Module Name": "Module Name",
+            "Course Code": "Module Code",
+            "Course Name": "Module ECTS",
+            "Module ECTS": "Course Code"
+        },
+        {
+            "Module Code": "3General/Support",
+            "Module Name": "Basic English Skills",
+            "Course Code": "EnLa-M1013",
+            "Course Name": "10",
+            "Module ECTS": "EnLa1011"
+        },
+        {
+            "Module Code": "Civics and Ethics",
+            "Module Name": "CESt-M1023",
+            "Course Code": "5",
+            "Course Name": "CESt1023",
+            "Module ECTS": "Civics and Ethics"
+        },
+        {
+            "Module Code": "Introduction to Logic",
+            "Module Name": "PHIL-M1033",
+            "Course Code": "5",
+            "Course Name": "PHIL-1033",
+            "Module ECTS": "Introduction to Logic"
+        },
+        {
+            "Module Code": "Applied Engineering Mathematics",
+            "Module Name": "GEng-M1043",
+            "Course Code": "14",
+            "Course Name": "Math-1041",
+            "Module ECTS": "Applied Mathematics I"
+        },
+        {
+            "Module Code": "Engineering Mechanics",
+            "Module Name": "GEng-M1053",
+            "Course Code": "12",
+            "Course Name": "CEng-1051",
+            "Module ECTS": "Engineering Mechanics I-Statics"
+        },
+        {
+            "Module Code": "Basic Engineering Skills",
+            "Module Name": "GEng-M1063",
+            "Course Code": "8",
+            "Course Name": "GENG-1061",
+            "Module ECTS": "Introduction to Engineering Profession"
+        },
+        {
+            "Module Code": "Basic Economics",
+            "Module Name": "GEng-M1073",
+            "Course Code": "5",
+            "Course Name": "ECON-1071",
+            "Module ECTS": "Introduction to Economics"
+        },
+        {
+            "Module Code": "Computing",
+            "Module Name": "GEng-M2083",
+            "Course Code": "5",
+            "Course Name": "ECEG-2081",
+            "Module ECTS": "Introduction to Computing"
+        },
+        {
+            "Module Code": "Engineering Thermodynamics",
+            "Module Name": "GEng-M2093",
+            "Course Code": "4",
+            "Course Name": "MEng-2091",
+            "Module ECTS": "Engineering Thermodynamics"
+        },
+        {
+            "Module Code": "1Core",
+            "Module Name": "Applied Physics",
+            "Course Code": "ECEG-M2101",
+            "Course Name": "15",
+            "Module ECTS": "ECEG-2101"
+        },
+        {
+            "Module Code": "Advanced Engineering Mathematics",
+            "Module Name": "ECEG-M2111",
+            "Course Code": "18",
+            "Course Name": "ECEG-2111",
+            "Module ECTS": "Applied Engineering Mathematics III"
+        },
+        {
+            "Module Code": "Basic Electrical Engineering",
+            "Module Name": "ECEG-M2121",
+            "Course Code": "12",
+            "Course Name": "ECEG-2121",
+            "Module ECTS": "Fundamental of Electrical Engineering (Circuit)"
+        },
+        {
+            "Module Code": "Applied Electronics",
+            "Module Name": "ECEG-M2131",
+            "Course Code": "16",
+            "Course Name": "ECEG-2131",
+            "Module ECTS": "Applied Electronics I"
+        },
+        {
+            "Module Code": "Signals and Networks Analysis",
+            "Module Name": "ECEG-M2141",
+            "Course Code": "12",
+            "Course Name": "ECEG-2141",
+            "Module ECTS": "Signals and Systems Analysis"
+        },
+        {
+            "Module Code": "Basic Electrical Machines",
+            "Module Name": "ECEG-M3151",
+            "Course Code": "13",
+            "Course Name": "ECEG-3154",
+            "Module ECTS": "Introduction to Electrical Machines"
+        },
+        {
+            "Module Code": "Computer Architecture and Programming",
+            "Module Name": "ECEG-M3161",
+            "Course Code": "16",
+            "Course Name": "ECEG-3161",
+            "Module ECTS": "Digital Logic Design"
+        },
+        {
+            "Module Code": "Electrical Systems Engineering",
+            "Module Name": "ECEG-M3171",
+            "Course Code": "29",
+            "Course Name": "ECEG-3171",
+            "Module ECTS": "Digital Signal Processing"
+        },
+        {
+            "Module Code": "Microcomputer and Interfacing",
+            "Module Name": "ECEG-M4181",
+            "Course Code": "6",
+            "Course Name": "ECEG-4181",
+            "Module ECTS": "Microcomputer and Interfacing"
+        },
+        {
+            "Module Code": "Data Storage and Analysis",
+            "Module Name": "ECEG-M4191",
+            "Course Code": "14",
+            "Course Name": "ECEG-4191",
+            "Module ECTS": "Database Systems"
+        },
+        {
+            "Module Code": "Programming Concepts and Software Engineering",
+            "Module Name": "ECEG-M4201",
+            "Course Code": "15",
+            "Course Name": "ECEG-4201",
+            "Module ECTS": "Software Engineering"
+        },
+        {
+            "Module Code": "Computer Networks and Security",
+            "Module Name": "ECEG-M4211",
+            "Course Code": "10",
+            "Course Name": "ECEG-4211",
+            "Module ECTS": "Data Communication and Computer Networks"
+        },
+        {
+            "Module Code": "Computer System Design and Automation",
+            "Module Name": "ECEG-M4221",
+            "Course Code": "16",
+            "Course Name": "ECEG-4221",
+            "Module ECTS": "VLSI Design"
+        },
+        {
+            "Module Code": "Modern Control Systems",
+            "Module Name": "ECEG-M4231",
+            "Course Code": "5",
+            "Course Name": "ECEG-4231",
+            "Module ECTS": "Modern Control Systems"
+        },
+        {
+            "Module Code": "Machines and Derives",
+            "Module Name": "ECEG-M4241",
+            "Course Code": "11",
+            "Course Name": "ECEG-4241",
+            "Module ECTS": "Electrical Machines"
+        },
+        {
+            "Module Code": "Power Engineering I",
+            "Module Name": "ECEG-M4251",
+            "Course Code": "10",
+            "Course Name": "ECEG-4251",
+            "Module ECTS": "Power Systems"
+        },
+        {
+            "Module Code": "Energy Conversion and distribution",
+            "Module Name": "ECEG-M4261",
+            "Course Code": "15",
+            "Course Name": "ECEG-4261",
+            "Module ECTS": "Electrical Installation"
+        },
+        {
+            "Module Code": "Power Engineering II",
+            "Module Name": "ECEG-M5271",
+            "Course Code": "8",
+            "Course Name": "ECEG-5271",
+            "Module ECTS": "Power System Planning and Operation"
+        },
+        {
+            "Module Code": "Microelectronic Devices and Circuits",
+            "Module Name": "ECEG-M4281",
+            "Course Code": "5",
+            "Course Name": "ECEG-4281",
+            "Module ECTS": "Microelectronic Devices and Circuits"
+        },
+        {
+            "Module Code": "Communication System",
+            "Module Name": "ECEG-M4301",
+            "Course Code": "5",
+            "Course Name": "ECEG-4301",
+            "Module ECTS": "Communication System"
+        },
+        {
+            "Module Code": "Data and Telecom Network",
+            "Module Name": "ECEG-M4311",
+            "Course Code": "20",
+            "Course Name": "ECEG-4311",
+            "Module ECTS": "Data Communication and Computer Networks"
+        },
+        {
+            "Module Code": "Waves and Antennas",
+            "Module Name": "ECEG-M4321",
+            "Course Code": "10",
+            "Course Name": "ECEG-4321",
+            "Module ECTS": "EM Waves and Guide Structures"
+        },
+        {
+            "Module Code": "Microwave and Optical Communication",
+            "Module Name": "ECEG-M5331",
+            "Course Code": "10",
+            "Course Name": "ECEG-5331",
+            "Module ECTS": "Microwave Devices and Systems"
+        },
+        {
+            "Module Code": "Electric Machines and Derives",
+            "Module Name": "ECEG-M4341",
+            "Course Code": "16",
+            "Course Name": "ECEG-4341",
+            "Module ECTS": "Electrical Installation"
+        },
+        {
+            "Module Code": "Instrumentation and Control Engineering",
+            "Module Name": "ECEG-M4351",
+            "Course Code": "15",
+            "Course Name": "ECEG-4351",
+            "Module ECTS": "Modern Control systems"
+        },
+        {
+            "Module Code": "Control Applications",
+            "Module Name": "ECEG-M5371",
+            "Course Code": "16",
+            "Course Name": "ECEG-5371",
+            "Module ECTS": "Embedded Systems"
+        },
+        {
+            "Module Code": "Electronics Design",
+            "Module Name": "ECEG-M4381",
+            "Course Code": "20",
+            "Course Name": "ECEG-4381",
+            "Module ECTS": "Principles of Electronics Design"
+        },
+        {
+            "Module Code": "Microelectronic Systems",
+            "Module Name": "ECEG-M4391",
+            "Course Code": "10",
+            "Course Name": "ECEG-4391",
+            "Module ECTS": "Microelectronic Devices and Circuits"
+        },
+        {
+            "Module Code": "Power Electronics Technology",
+            "Module Name": "ECEG-M5401",
+            "Course Code": "5",
+            "Course Name": "ECEG-5401",
+            "Module ECTS": "Power Electronics Technology andApplications"
+        },
+        {
+            "Module Code": "Optoelectronics",
+            "Module Name": "ECEG-M5411",
+            "Course Code": "5",
+            "Course Name": "ECEG-5411",
+            "Module ECTS": "Optoelectronics"
+        },
+        {
+            "Module Code": "Modern Trends in Electronics Engineering",
+            "Module Name": "ECEG-M5421",
+            "Course Code": "5",
+            "Course Name": "ECEG-5421",
+            "Module ECTS": "Modern Trends in Electronics Engineering"
+        },
+        {
+            "Module Code": "Project and Presentation",
+            "Module Name": "ECEG-M5431",
+            "Course Code": "7",
+            "Course Name": "ECEG-5431",
+            "Module ECTS": "Research Methods and Presentation"
+        },
+        {
+            "Module Code": "Internship",
+            "Module Name": "ECEG-M4441",
+            "Course Code": "30",
+            "Course Name": "ECEG-4441",
+            "Module ECTS": "Industry Internship"
+        },
+        {
+            "Module Code": "Entrepreneurship and Managerial skills",
+            "Module Name": "MEng-M5451",
+            "Course Code": "9",
+            "Course Name": "MENG-5451",
+            "Module ECTS": "Entrepreneurship"
+        },
+        {
+            "Module Code": "B.Sc. Thesis",
+            "Module Name": "ECEG-M5461",
+            "Course Code": "12",
+            "Course Name": "ECEG-5461",
+            "Module ECTS": "B.Sc. Thesis"
+        }
+    ]
+}

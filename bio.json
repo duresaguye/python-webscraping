@@ -1,0 +1,408 @@
+{
+    "Program Information": {
+        "College/Institution": null,
+        "Department/School/Center": null,
+        "Program title": "Program duration (in years): Three for regular and six for summer",
+        "Program duration (in years)": null,
+        "Study Language": null,
+        "Credits and the equivalent ECTS": null,
+        "Mode of delivery": "Program Objective:",
+        "Program Objective": null,
+        "Admission requirements": "Graduation requirement– a student must obtain a minimum CGPA and MGPA of 2.00, take a total of 184 ECTS (109 credits) and have no ‘F’ in any course taken.",
+        "Graduation requirement": "Clustering of existing courses into modulesof the program"
+    },
+    "Modules and Courses": [
+        {
+            "Module Code": "Overview",
+            "Module Name": "OverviewTikur Anbessaveterinary",
+            "Course Code": "BackgroundICT ContactsOverviewOverviewServicesPublished BooksAAUP House StyleContacts",
+            "Course Name": "Overview",
+            "Module ECTS": "OverviewServicesPublished BooksAAUP House StyleContacts"
+        },
+        {
+            "Module Code": "ModuleCode",
+            "Module Name": "Module title",
+            "Course Code": "ECTS",
+            "Course Name": "CourseCode",
+            "Module ECTS": "Course title"
+        },
+        {
+            "Module Code": "Math-M2011",
+            "Module Name": "Basic Mathematics",
+            "Course Code": "12",
+            "Course Name": "Math2011",
+            "Module ECTS": "Fundamentals of College Mathematics"
+        },
+        {
+            "Module Code": "Math2012",
+            "Module Name": "Fundamental Concepts of Algebra",
+            "Course Code": "Math 321",
+            "Course Name": "3",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math-M2021",
+            "Module Name": "Basic Calculus",
+            "Course Code": "14",
+            "Course Name": "Math2021",
+            "Module ECTS": "Calculus I"
+        },
+        {
+            "Module Code": "Math2022",
+            "Module Name": "Calculus II",
+            "Course Code": "Math 365",
+            "Course Name": "4",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math-M3031",
+            "Module Name": "Combinatorics and Graph Theory",
+            "Course Code": "10",
+            "Course Name": "Math3031",
+            "Module ECTS": "Introduction to Combinatorics and Graph Theory"
+        },
+        {
+            "Module Code": "Math-M3041",
+            "Module Name": "Linear Algebra",
+            "Course Code": "10",
+            "Course Name": "Math3041",
+            "Module ECTS": "Linear Algebra I"
+        },
+        {
+            "Module Code": "Math3042",
+            "Module Name": "Linear Algebra II",
+            "Course Code": "Math 326",
+            "Course Name": "3",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math-M3051",
+            "Module Name": "Modern Geometry",
+            "Course Code": "10",
+            "Course Name": "Math3051",
+            "Module ECTS": "Fundamental Concepts of Geometry"
+        },
+        {
+            "Module Code": "Math3052",
+            "Module Name": "Transformation Geometry",
+            "Course Code": "Math 312",
+            "Course Name": "3",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math-M3061",
+            "Module Name": "Computational Mathematics",
+            "Course Code": "10",
+            "Course Name": "Math3061",
+            "Module ECTS": "Numerical Analysis I"
+        },
+        {
+            "Module Code": "Math3062",
+            "Module Name": "Linear Optimization",
+            "Course Code": "Math 356",
+            "Course Name": "3",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math-M3071",
+            "Module Name": "Functions of Several and Complex Variables",
+            "Course Code": "14",
+            "Course Name": "Math3071",
+            "Module ECTS": "Calculus of Functions of Several Variables"
+        },
+        {
+            "Module Code": "Math3072",
+            "Module Name": "Functions of Complex Variables",
+            "Course Code": "Math 464",
+            "Course Name": "4",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math-M4081",
+            "Module Name": "Differential Equations",
+            "Course Code": "15",
+            "Course Name": "Math4081",
+            "Module ECTS": "Ordinary Differential Equations"
+        },
+        {
+            "Module Code": "Math4082",
+            "Module Name": "Partial Differential Equations",
+            "Course Code": "Math 484",
+            "Course Name": "3",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math-M4091",
+            "Module Name": "A First Course in Modern Algebra and Number Theory",
+            "Course Code": "10",
+            "Course Name": "Math4091",
+            "Module ECTS": "Modern Algebra I"
+        },
+        {
+            "Module Code": "Math4092",
+            "Module Name": "Theory of Numbers",
+            "Course Code": "Math 392",
+            "Course Name": "3",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math-M4101",
+            "Module Name": "Advanced Calculus of  Functions of One Variable",
+            "Course Code": "7",
+            "Course Name": "Math4101",
+            "Module ECTS": "Advanced Calculus of  Functions of One Variable"
+        },
+        {
+            "Module Code": "Math-M4111",
+            "Module Name": "Mathematical Modeling and Project",
+            "Course Code": "10",
+            "Course Name": "Math4111",
+            "Module ECTS": "Mathematical Modeling"
+        },
+        {
+            "Module Code": "Math4112",
+            "Module Name": "Project I",
+            "Course Code": "Math 405",
+            "Course Name": "1",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Math4113",
+            "Module Name": "Project II",
+            "Course Code": "Math 406",
+            "Course Name": "2",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Total",
+            "Module Name": "",
+            "Course Code": "66",
+            "Course Name": "",
+            "Module ECTS": "112"
+        },
+        {
+            "Module Code": "Modulecode",
+            "Module Name": "Module title",
+            "Course Code": "ECTS",
+            "Course Name": "Coursecode",
+            "Module ECTS": "Course title"
+        },
+        {
+            "Module Code": "Math-M4122",
+            "Module Name": "Advanced Courses in Algebra",
+            "Course Code": "15",
+            "Course Name": "Math4121",
+            "Module ECTS": "Logic and  Set Theory"
+        },
+        {
+            "Module Code": "Math4122",
+            "Module Name": "Modern Algebra II",
+            "Course Code": "Math 424",
+            "Course Name": "3",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math4123",
+            "Module Name": "Introduction to  Algebraic  Geometry",
+            "Course Code": "Math 426",
+            "Course Name": "3",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math-M4132",
+            "Module Name": "Analysis",
+            "Course Code": "15",
+            "Course Name": "Math4131",
+            "Module ECTS": "Introduction to  Topology"
+        },
+        {
+            "Module Code": "Math4132",
+            "Module Name": "Advanced Calculus  of  Several Variables",
+            "Course Code": "Math 463",
+            "Course Name": "3",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math4133",
+            "Module Name": "Introduction to Real Analysis",
+            "Course Code": "Math 462",
+            "Course Name": "3",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math-M4142",
+            "Module Name": "Advanced Discrete Mathematics",
+            "Course Code": "15",
+            "Course Name": "Math4141",
+            "Module ECTS": "Introduction to Cryptography"
+        },
+        {
+            "Module Code": "Math4142",
+            "Module Name": "Computational  Number Theory",
+            "Course Code": "Math 494",
+            "Course Name": "3",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math4143",
+            "Module Name": "Graph Theory",
+            "Course Code": "Math 472",
+            "Course Name": "3",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math-M4152",
+            "Module Name": "Advanced Computational Mathematics I",
+            "Course Code": "15",
+            "Course Name": "Math4151",
+            "Module ECTS": "Numerical Analysis  II"
+        },
+        {
+            "Module Code": "Math4152",
+            "Module Name": "Operations  Research",
+            "Course Code": "Math 451",
+            "Course Name": "3",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math4153",
+            "Module Name": "Non linear Optimization",
+            "Course Code": "Math 456",
+            "Course Name": "3",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math-M4162",
+            "Module Name": "Advanced Computational Mathematics II",
+            "Course Code": "15",
+            "Course Name": "Math4161",
+            "Module ECTS": "Numerical Analysis  II"
+        },
+        {
+            "Module Code": "Math4162",
+            "Module Name": "Fluid  Mechanics",
+            "Course Code": "Math 412",
+            "Course Name": "3",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math4163",
+            "Module Name": "Nonlinear Optimization",
+            "Course Code": "Math 456",
+            "Course Name": "3",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math-M4172",
+            "Module Name": "Advanced Geometry  and Philosophy  of  Mathematics",
+            "Course Code": "15",
+            "Course Name": "Math4171",
+            "Module ECTS": "Projective Geometry"
+        },
+        {
+            "Module Code": "Math4172",
+            "Module Name": "Introduction to  Differential Geometry",
+            "Course Code": "Math 442",
+            "Course Name": "3",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "Math4173",
+            "Module Name": "History and Philosophy of  Mathematics",
+            "Course Code": "Math 408",
+            "Course Name": "3",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Total",
+            "Module Name": "15",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "Modulecode",
+            "Module Name": "Module title",
+            "Course Code": "ECTS",
+            "Course Name": "Coursecode",
+            "Module ECTS": "Course title"
+        },
+        {
+            "Module Code": "Stat-M2083",
+            "Module Name": "Statistics and Probability",
+            "Course Code": "10",
+            "Course Name": "Stat2081",
+            "Module ECTS": "Introduction to  Statistics"
+        },
+        {
+            "Module Code": "Stat2082",
+            "Module Name": "Introduction to Probability Theory",
+            "Course Code": "Stat 276",
+            "Course Name": "3",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "CoSc-M1213",
+            "Module Name": "Introduction to Programming",
+            "Course Code": "13",
+            "Course Name": "CoSc1211",
+            "Module ECTS": "Introduction to Computer Science"
+        },
+        {
+            "Module Code": "CoSc1212",
+            "Module Name": "Fundamentals of Programming",
+            "Course Code": "Comp 231",
+            "Course Name": "4",
+            "Module ECTS": "2"
+        },
+        {
+            "Module Code": "CoSc-M2223",
+            "Module Name": "Fundamentals of Database Systems",
+            "Course Code": "7",
+            "Course Name": "CoSc2221",
+            "Module ECTS": "Fundamentals of Database Systems"
+        },
+        {
+            "Module Code": "Phys-M2243",
+            "Module Name": "Mechanics and Heat",
+            "Course Code": "",
+            "Course Name": "Phys2241",
+            "Module ECTS": "Mechanics and Heat for Mathematics"
+        },
+        {
+            "Module Code": "EnLa-M1013",
+            "Module Name": "Basic English Skills",
+            "Course Code": "10",
+            "Course Name": "EnLa1011",
+            "Module ECTS": "Communicative English Skills"
+        },
+        {
+            "Module Code": "EnLa1012",
+            "Module Name": "Basic Writing Skills",
+            "Course Code": "EnLa 301",
+            "Course Name": "3",
+            "Module ECTS": ""
+        },
+        {
+            "Module Code": "CESt-M1023",
+            "Module Name": "Civics and Ethics",
+            "Course Code": "5",
+            "Course Name": "CESt1023",
+            "Module ECTS": "Civics and Ethics"
+        },
+        {
+            "Module Code": "Geol-M3023",
+            "Module Name": "Environmental Science",
+            "Course Code": "5",
+            "Course Name": "Geol3023",
+            "Module ECTS": "Environmental Science"
+        },
+        {
+            "Module Code": "Total",
+            "Module Name": "20",
+            "Course Code": "",
+            "Course Name": "",
+            "Module ECTS": ""
+        }
+    ]
+}
